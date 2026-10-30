@@ -71,7 +71,7 @@ The VBT text and notes are licensed under **[Creative Commons Attribution-NoDeri
 **Credits page of other publications:**
 > Scripture quotations from the Veni Bible Translation (VBT), © 2026 Ismael Silva, ismaelsilva.org. Used under the CC BY-ND 4.0 license.
 
-The name "Veni Bible Translation" and the abbreviation VBT identify only the original text and may not be used for modified versions. The license does not cover the logo or the design of printed editions.
+The VBT logo and the design of VBT editions are also free under CC BY-ND 4.0: share them as they are, without modification, and with credit. The name "Veni Bible Translation", the abbreviation VBT and the logo identify only the original text and may not be used for modified versions.
 
 ## Repository structure
 
