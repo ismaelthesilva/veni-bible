@@ -71,7 +71,7 @@ The VBT text and notes are licensed under **[Creative Commons Attribution-NoDeri
 **Credits page of other publications:**
 > Scripture quotations from the Veni Bible Translation (VBT), © 2026 Ismael Silva, ismaelsilva.org. Used under the CC BY-ND 4.0 license.
 
-The VBT logo and the design of VBT editions are also free under CC BY-ND 4.0: share them as they are, without modification, and with credit. The name "Veni Bible Translation", the abbreviation VBT and the logo identify only the original text and may not be used for modified versions.
+The VBT logo, the VBT seal and the design of VBT editions are also free under CC BY-ND 4.0: share them as they are, without modification, and with credit. The name "Veni Bible Translation", the abbreviation VBT and the logo identify only the original text and may not be used for modified versions.
 
 ## Repository structure
 
@@ -80,7 +80,7 @@ veni-bible/
 ├── README.md
 ├── LICENSE.md
 ├── CHANGELOG.md
-├── assets/                     logo (light and dark)
+├── assets/                     logo (light and dark) and seal
 └── pt-BR/
     └── revelation/
         ├── markdown/           22 chapters + index, with notes
@@ -92,6 +92,18 @@ veni-bible/
 ## Corrections and suggestions
 
 Found a typo or have a suggestion about a rendering? Please [open an issue](https://github.com/ismaelthesilva/veni-bible/issues) with the reference (for example, *Ap 13:3*) and your reasoning. Every change to the text is checked against the Greek, the glossary and the translation's decision log before a new version is released.
+
+## The VBT seal
+
+<p align="center">
+  <img src="assets/vbt-seal.png" alt="The VBT seal — Veni, Domine Iesu" width="240">
+</p>
+
+<p align="center"><sub>
+  <em>Veni, Domine Iesu</em> — "Come, Lord Jesus" (Revelation 22:20).<br>
+  The morning star rising over the clouds (22:16; 1:7), Alpha and Omega (1:8; 22:13) and the golden lampstands (1:12).<br>
+  The seal of the Veni Bible Translation, used on special editions.
+</sub></p>
 
 ## Acknowledgements
 

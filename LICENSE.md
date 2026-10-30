@@ -21,13 +21,13 @@ Full legal code: https://creativecommons.org/licenses/by-nd/4.0/legalcode
   Short quotations may be marked *(Ap 1:3, VBT)*.
 - **NoDerivatives** — If you remix, transform or build upon the material, you may not distribute the modified material.
 
-## VBT logo and design
+## VBT logo, seal and design
 
-The VBT logo and the design of VBT editions (covers, page layout and artwork) are also licensed under **CC BY-ND 4.0**. You may share them freely, in any medium, as long as they are **not modified** and the source is credited.
+The VBT logo, the VBT seal and the design of VBT editions (covers, page layout and artwork) are also licensed under **CC BY-ND 4.0**. You may share them freely, in any medium, as long as they are **not modified** and the source is credited.
 
 ### Name and marks
 
-The name "Veni Bible Translation", the abbreviation "VBT" and the VBT logo identify only the original, unmodified text. They may not be used for modified versions of the text, and their use must not suggest endorsement by the VBT or its author.
+The name "Veni Bible Translation", the abbreviation "VBT", the VBT logo and the VBT seal identify only the original, unmodified text. They may not be used for modified versions of the text, and their use must not suggest endorsement by the VBT or its author.
 
 ## Base text
 
