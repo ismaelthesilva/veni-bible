@@ -56,7 +56,7 @@ The work begins with Revelation and will follow, book by book, through the whole
 | --- | --- | --- |
 | Markdown | [`pt-BR/revelation/markdown/`](pt-BR/revelation/markdown/README.md) | Reading on GitHub, chapter by chapter, with notes |
 | USFM 3.0 | [`67-REV.usfm`](pt-BR/revelation/usfm/67-REV.usfm) | Bible software and publishing (Paratext, eBible, Bible apps); includes headings, poetry and footnotes |
-| JSON | [`revelation.json`](pt-BR/revelation/json/revelation.json) | Developers and apps — chapters, headings, verses and notes |
+| JSON | [`revelation.json`](pt-BR/revelation/json/revelation.json) | Developers and apps — chapters, headings, verses, notes and layout blocks (paragraphs and poetry lines) |
 | Plain text | [`revelation.txt`](pt-BR/revelation/txt/revelation.txt) · [`revelation-notes.txt`](pt-BR/revelation/txt/revelation-notes.txt) | Search, quoting and quick reuse — one verse per line |
 
 ## Using the VBT
