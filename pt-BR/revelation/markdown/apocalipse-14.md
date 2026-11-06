@@ -37,25 +37,25 @@
 
 ---
 
-[^1]: **14:1** “Monte Sião”: cf. Sl 2:6; Is 24:23; Jl 2:32; Hb 12:22. “O Seu nome e o nome de Seu Pai”: cf. 3:12; 7:3; 22:4; o Textus Receptus omite “o Seu nome e”.
+[^1]: **14:1** “Monte Sião”: cf. Sl 2:6; Is 24:23; Jl 2:32 (heb. 3:5); Hb 12:22. “O Seu nome e o nome de Seu Pai”: cf. 3:12; 7:3; 22:4; o Textus Receptus omite “o Seu nome e”. Variante: o texto bizantino lê “um número de cento e quarenta e quatro mil”; o Textus Receptus lê “um Cordeiro”.
 
 [^2]: **14:2** “Voz de muitas águas”: cf. 1:15; 19:6; Ez 43:2. “Harpistas tocando as suas harpas”: gr. κιθαρῳδῶν κιθαριζόντων ἐν ταῖς κιθάραις (cf. 5:8; 15:2).
 
 [^3]: **14:3** “Como que um cântico novo”: gr. ὡς ᾠδὴν καινήν (cf. 5:9; 15:3); o texto bizantino omite “como que”. “Comprados”: gr. ἀγοράζω (cf. 5:9).
 
-[^4]: **14:4** “Virgens”: gr. παρθένοι, aqui aplicado a homens (οὗτοι) (cf. 2Co 11:2). “Seguem o Cordeiro”: cf. Jo 10:4, 27. “Primícias”: gr. ἀπαρχή (cf. Jr 2:3; Tg 1:18).
+[^4]: **14:4** “Virgens”: gr. παρθένοι, aqui aplicado a homens (οὗτοι) (cf. 2Co 11:2). “Seguem o Cordeiro”: cf. Jo 10:4, 27. “Primícias”: gr. ἀπαρχή (cf. Jr 2:3; Tg 1:18). Variante: o texto bizantino lê “estes foram comprados por Jesus”.
 
 [^5]: **14:5** “Mentira”: gr. ψεῦδος; o Textus Receptus lê “dolo” e acrescenta “diante do trono de Deus”. Cf. Sf 3:13; Is 53:9. “Irrepreensíveis”: gr. ἄμωμοι, “sem defeito” (cf. Êx 29:1; 1Pe 1:19); o texto bizantino e o Textus Receptus leem “pois são irrepreensíveis”.
 
-[^6]: **14:6** “Voando pelo meio do céu”: cf. 8:13. “O evangelho eterno”: gr. εὐαγγέλιον αἰώνιον, sem artigo no grego. “Anunciar”: gr. εὐαγγελίσαι, “anunciar as boas-novas” (cf. 10:7), aqui com “evangelho” como objeto. “Assentados”: gr. καθημένους, lit. “sentados”; o papiro 115, o Códice Alexandrino e o Textus Receptus leem “habitam”. “Toda nação, e tribo, e língua, e povo”: cf. 5:9; 13:7.
+[^6]: **14:6** “Voando pelo meio do céu”: cf. 8:13. “O evangelho eterno”: gr. εὐαγγέλιον αἰώνιον, sem artigo no grego. “Anunciar”: gr. εὐαγγελίσαι, “anunciar as boas-novas” (cf. 10:7), aqui com “evangelho” como objeto. “Estão sentados”: gr. καθημένους; o papiro 115, o Códice Alexandrino e o Textus Receptus leem “habitam”. “Toda nação, e tribo, e língua, e povo”: cf. 5:9; 13:7. Variante: o texto bizantino omite “outro”.
 
-[^7]: **14:7** “Temei a Deus e dai-Lhe glória”: cf. 11:13; 15:4; Ec 12:13; Jr 13:16; o texto bizantino lê “Temei o Senhor”. “Juízo”: gr. κρίσις (cf. 16:7; 18:10; 19:2; Dn 7:10, 22, 26). “Aquele que fez o céu, e a terra, e o mar, e as fontes das águas”: cf. Êx 20:11; Sl 146:6; At 14:15; Ap 10:6; o SBLGNT não tem artigo antes de “mar” e “fontes”; o texto bizantino e o Textus Receptus leem “o mar”.
+[^7]: **14:7** “Temei a Deus e dai-Lhe glória”: cf. 11:13; 15:4; Ec 12:13; Jr 13:16; o texto bizantino lê “Temei o Senhor”. “Juízo”: gr. κρίσις (cf. 16:7; 18:10; 19:2; Dn 7:10, 22, 26). “Aquele que fez o céu, e a terra, e o mar, e as fontes das águas”: cf. Êx 20:11; Sl 146:6 [LXX 145:6]; At 14:15; Ap 10:6; o SBLGNT não tem artigo antes de “mar” e “fontes”; o texto bizantino e o Textus Receptus leem “o mar”.
 
-[^8]: **14:8** “Outro anjo, um segundo”: gr. ἄλλος δεύτερος ἄγγελος. “Caiu, caiu Babilônia, a grande”: cf. 18:2; Is 21:9; Jr 51:7–8; Dn 4:30. “Furor”: gr. θυμός, também “paixão” (cf. 12:12; 18:3). “Deu a beber”: gr. πεπότικεν, perfeito. Variantes: o Textus Receptus omite “um segundo” e lê “Babilônia, a cidade, a grande, porque deu a beber”; o texto bizantino traz um só “caiu”.
+[^8]: **14:8** “Outro anjo, um segundo”: gr. ἄλλος δεύτερος ἄγγελος. “Caiu, caiu Babilônia, a grande”: cf. 18:2; Is 21:9; Jr 51:7–8 [LXX 28:7–8]; Dn 4:30 (heb. 4:27). “Furor”: gr. θυμός, também “paixão” (cf. 12:12; 18:3). “Deu a beber”: gr. πεπότικεν, perfeito. Variantes: o Textus Receptus omite “um segundo” e lê “Babilônia, a cidade, a grande, porque deu a beber”; o texto bizantino traz um só “caiu”.
 
 [^9]: **14:9** “Adora… recebe”: presentes no grego. “A marca”: gr. χάραγμα, sem artigo no grego; é a marca da besta (cf. 13:16–17; 14:11).
 
-[^10]: **14:10** “Preparado sem mistura”: gr. κεκερασμένου ἀκράτου, lit. “misturado não diluído”. “Santos anjos”: sem artigo; o texto bizantino e o Textus Receptus leem “dos santos anjos”. “Cálice da Sua ira”: cf. 16:19; Sl 75:8; Is 51:17; Jr 25:15. “Fogo e enxofre”: cf. 19:20; 20:10; 21:8; Gn 19:24.
+[^10]: **14:10** “Preparado sem mistura”: gr. κεκερασμένου ἀκράτου, lit. “misturado não diluído”. “Santos anjos”: sem artigo; o texto bizantino e o Textus Receptus leem “dos santos anjos”. “Cálice da Sua ira”: cf. 16:19; Sl 75:8 (heb. 75:9) [LXX 74:9]; Is 51:17; Jr 25:15 [LXX 32:1]. “Fogo e enxofre”: cf. 19:20; 20:10; 21:8; Gn 19:24.
 
 [^11]: **14:11** “Pelos séculos dos séculos”: gr. εἰς αἰῶνας αἰώνων, sem artigos (cf. 1:6). Cf. Is 34:9–10; Jd 7. “Descanso”: gr. ἀνάπαυσις (cf. 4:8).
 
@@ -63,16 +63,16 @@
 
 [^13]: **14:13** “Escreve”: cf. 1:11, 19; 19:9; 21:5. “Bem-aventurados”: cf. 1:3; 16:15; 19:9; 20:6; 22:7, 14. “Desde agora”: gr. ἀπ’ ἄρτι; leitura alternativa: liga-se ao que segue, “Desde agora, sim, diz o Espírito”. “Descansem”: gr. ἀναπαήσονται (cf. 6:11). “Labores”: gr. κόποι (cf. 2:2). “Pois as suas obras os acompanham”: lit. “seguem com eles”. Variantes: o Textus Receptus lê “dizendo-me”; o texto bizantino e o Textus Receptus leem “e as suas obras”.
 
-[^14]: **14:14** “Nuvem branca”: cf. 1:7; Dn 7:13; Mt 24:30. “Alguém… semelhante a um Filho de Homem”: gr. ὅμοιον υἱὸν ἀνθρώπου (cf. 1:13; Dn 7:13). “Coroa”: gr. στέφανος. “Foice”: gr. δρέπανον.
+[^14]: **14:14** “Nuvem branca”: cf. 1:7; Mt 24:30. “Alguém… semelhante a um Filho de Homem”: gr. ὅμοιον υἱὸν ἀνθρώπου (cf. 1:13; Dn 7:13). A maiúscula identifica a figura com o “semelhante a um Filho de Homem” de 1:13, que vem “com as nuvens” (1:7); aqui Ele traz também uma coroa de ouro. Outra leitura vê aqui um anjo, pois a ordem de ceifar vem de “outro anjo” (14:15). “Coroa”: gr. στέφανος. “Foice”: gr. δρέπανον.
 
-[^15]: **14:15** “Santuário”: gr. ναός (cf. 11:19). “Lança”: gr. πέμψον, lit. “envia”. “Seara… está madura”: gr. ἐξηράνθη, lit. “secou”. Cf. Jl 3:13; Mt 13:30, 39; Mc 4:29.
+[^15]: **14:15** “Santuário”: gr. ναός (cf. 11:19). “Lança”: gr. πέμψον, lit. “envia”. “Seara… está madura”: gr. ἐξηράνθη, lit. “secou”. Cf. Jl 3:13 (heb. 4:13); Mt 13:30, 39; Mc 4:29. Variante: o Textus Receptus lê “chegou para Ti a hora”.
 
 [^17]: **14:17** “Também ele”: gr. καὶ αὐτός.
 
-[^18]: **14:18** “Saiu do altar”: o verbo está implícito no SBLGNT (cf. 14:17); o texto bizantino e o Textus Receptus têm ἐξῆλθεν e leem “com grande clamor”. “Autoridade sobre o fogo”: cf. 8:3–5. “Vindima”: gr. τρύγησον. Cf. Jl 3:13.
+[^18]: **14:18** “Saiu do altar”: o verbo está implícito no SBLGNT (cf. 14:17); o texto bizantino e o Textus Receptus têm ἐξῆλθεν e leem “com grande clamor”. “Autoridade sobre o fogo”: cf. 8:3–5. “Vindima”: gr. τρύγησον. Cf. Jl 3:13 (heb. 4:13).
 
 [^19]: **14:19** “Lagar do furor de Deus”: cf. 19:15; Is 63:1–6; Lm 1:15.
 
-[^20]: **14:20** Cf. Jl 3:12–14. “Mil e seiscentos estádios”: cerca de trezentos quilômetros; um estádio, cerca de cento e oitenta e cinco metros.
+[^20]: **14:20** Cf. Jl 3:12–14 (heb. 4:12–14). “Mil e seiscentos estádios”: cerca de trezentos quilômetros (cerca de cento e oitenta e cinco milhas); um estádio, cerca de cento e oitenta e cinco metros (seiscentos e sete pés).
 
 [← Apocalipse 13](apocalipse-13.md) · [Contents](README.md) · [Apocalipse 15 →](apocalipse-15.md)

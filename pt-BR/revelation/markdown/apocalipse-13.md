@@ -23,25 +23,25 @@
 
 ---
 
-[^1]: **13:1** “Subindo do mar”: cf. Dn 7:3. “Dez chifres e sete cabeças”: cf. 12:3; 17:3, 7, 12; Dn 7:7, 24. “Nomes de blasfêmia”: o Textus Receptus lê “nome”. Variante: o texto bizantino e o Textus Receptus começam o versículo com “E eu me pus de pé sobre a areia do mar” (cf. 12:17).
+[^1]: **13:1** “Subindo do mar”: cf. Dn 7:3. “Dez chifres e sete cabeças”: cf. 12:3; 17:3, 7, 12; Dn 7:7, 24; o Textus Receptus inverte a ordem (“sete cabeças e dez chifres”). “Nomes de blasfêmia”: o Textus Receptus lê “nome”. Variante: o texto bizantino e o Textus Receptus começam o versículo com “E eu me pus de pé sobre a areia do mar” (cf. 12:17).
 
 [^2]: **13:2** “Leopardo… urso… leão”: cf. Dn 7:4–6. “Poder… trono… autoridade”: gr. δύναμις, θρόνος, ἐξουσία (cf. 2:13; 12:9).
 
-[^3]: **13:3** “E uma das suas cabeças estava”: lit. “e uma das suas cabeças”, sem verbo; o Textus Receptus lê “E vi uma das suas cabeças”. “Como que ferida de morte”: gr. ὡς ἐσφαγμένην εἰς θάνατον, lit. “como que imolada para a morte”, a mesma expressão usada para o Cordeiro (5:6, no neutro). “Ferida de morte”: gr. ἡ πληγὴ τοῦ θανάτου, lit. “a ferida da sua morte”; πληγή, também “praga” (cf. 9:18). “Seguindo a besta”: lit. “após a besta”.
+[^3]: **13:3** “E uma das suas cabeças estava”: lit. “e uma das suas cabeças”, sem verbo; o Textus Receptus lê “E vi uma das suas cabeças”. “Como que ferida de morte”: gr. ὡς ἐσφαγμένην εἰς θάνατον, lit. “como que imolada para a morte”, o mesmo particípio usado para o Cordeiro (5:6, “como que imolado”, no neutro). “Ferida de morte”: gr. ἡ πληγὴ τοῦ θανάτου, lit. “a ferida da sua morte”; πληγή, também “praga” (cf. 9:18). “Seguindo a besta”: lit. “após a besta”.
 
-[^4]: **13:4** “Quem é semelhante”: cf. Êx 15:11; Sl 35:10; 89:6–8; Mq 7:18.
+[^4]: **13:4** “Quem é semelhante”: cf. Êx 15:11; Sl 35:10 [LXX 34:10]; 89:6–8 (heb. 89:7–9) [LXX 88:7–9]; Mq 7:18.
 
-[^5]: **13:5** “Grandes coisas e blasfêmias”: cf. Dn 7:8, 11, 20, 25. “Agir”: gr. ποιῆσαι, “fazer, atuar”; leitura alternativa: “continuar”. Variante: o texto bizantino lê “fazer guerra”. “Quarenta e dois meses”: cf. 11:2; 12:6, 14.
+[^5]: **13:5** “Grandes coisas e blasfêmias”: cf. Dn 7:8, 11, 20, 25. “Agir”: gr. ποιῆσαι, “fazer, atuar”; leitura alternativa: “continuar”. Variante: o texto bizantino lê “blasfêmia” (singular) e “fazer guerra”. “Quarenta e dois meses”: cf. 11:2; 12:6, 14.
 
-[^6]: **13:6** “Tabernáculo… os que no céu têm o seu tabernáculo”: gr. σκηνή… σκηνοῦντας (cf. 7:15; 12:12; 21:3); o Textus Receptus lê “e os que”. Cf. Dn 8:10–11; 11:36.
+[^6]: **13:6** “Tabernáculo… os que no céu têm o seu tabernáculo”: gr. σκηνή… σκηνοῦντας (cf. 7:15; 12:12; 21:3); o Textus Receptus lê “e os que”; o texto bizantino e o Textus Receptus leem “blasfêmia”, singular. Cf. Dn 8:10–11; 11:36.
 
 [^7]: **13:7** “Fazer guerra contra os santos e vencê-los”: cf. 11:7; Dn 7:21, 25. “Toda tribo, e povo, e língua, e nação”: cf. 5:9; 7:9; 14:6; o Textus Receptus omite “e povo”.
 
-[^8]: **13:8** “A adorarão”: gr. αὐτόν, masculino. “Livro da vida”: cf. 3:5; 17:8; 20:12, 15; 21:27. Variante: o Textus Receptus lê “cujos nomes”. “Desde a fundação do mundo”: leitura alternativa: liga-se a “escrito”, “cujo nome não está escrito desde a fundação do mundo” (cf. 17:8).
+[^8]: **13:8** “A adorarão”: gr. αὐτόν, masculino. “Livro da vida”: cf. 3:5; 17:8; 20:12, 15; 21:27. Variante: o texto bizantino e o Textus Receptus leem ὧν, “de todos cujo nome” (o Textus Receptus, “cujos nomes”). “Desde a fundação do mundo”: leitura alternativa: liga-se a “escrito”, “cujo nome não está escrito desde a fundação do mundo” (cf. 17:8).
 
 [^9]: **13:9** Cf. 2:7, 11, 17, 29; 3:6, 13, 22.
 
-[^10]: **13:10** Lit. “se alguém para cativeiro, para cativeiro vai; se alguém à espada ser morto, ele à espada ser morto”. Cf. Jr 15:2; 43:11. Segue-se o SBLGNT, com o Códice Alexandrino. Variantes: os códices Sinaítico e de Efrém, muitos manuscritos e o Textus Receptus leem “se alguém matar à espada, é necessário que à espada seja morto”; na primeira frase, o Textus Receptus lê “se alguém ajunta cativeiro, para o cativeiro vai”, e o texto bizantino, “se alguém tem cativeiro, vai”. “Perseverança”: gr. ὑπομονή (cf. 1:9; 14:12).
+[^10]: **13:10** Lit. “se alguém para cativeiro, para cativeiro vai; se alguém à espada ser morto, ele à espada ser morto”. Cf. Jr 15:2; 43:11 [LXX 50:11]. Segue-se o SBLGNT, com o Códice Alexandrino. Variantes: os códices Sinaítico e de Efrém, o texto bizantino e o Textus Receptus leem “se alguém matar à espada, é necessário que à espada seja morto”; na primeira frase, o Textus Receptus lê “se alguém ajunta cativos, para o cativeiro vai”, e o texto bizantino, “se alguém tem cativeiro, vai”. “Perseverança”: gr. ὑπομονή (cf. 1:9; 14:12).
 
 [^11]: **13:11** “Cordeiro”: gr. ἀρνίον, o mesmo termo de 5:6; aqui em comparação, sem artigo, por isso em minúscula. “Da terra”: em contraste com “do mar” (13:1).
 
@@ -57,6 +57,6 @@
 
 [^17]: **13:17** “Comprar ou vender”: gr. ἀγοράζω (cf. 3:18; 5:9). “O número do seu nome”: cf. 15:2. Variante: o Textus Receptus lê “ou o nome”.
 
-[^18]: **13:18** “Entendimento”: gr. νοῦς (cf. 17:9). “Calcule”: gr. ψηφισάτω, “conte, calcule”. “Número de homem”: gr. ἀριθμὸς ἀνθρώπου, sem artigo; também “número de um homem”. “Seiscentos e sessenta e seis”: assim o papiro 47 e os códices Sinaítico e Alexandrino.
+[^18]: **13:18** “Entendimento”: gr. νοῦς (cf. 17:9). “Calcule”: gr. ψηφισάτω, “conte, calcule”. “Número de homem”: gr. ἀριθμὸς ἀνθρώπου, sem artigo; também “número de um homem”. “Seiscentos e sessenta e seis”: assim o papiro 47 e os códices Sinaítico e Alexandrino. Variante: o Códice de Efrém e o papiro 115 leem “seiscentos e dezesseis”.
 
 [← Apocalipse 12](apocalipse-12.md) · [Contents](README.md) · [Apocalipse 14 →](apocalipse-14.md)

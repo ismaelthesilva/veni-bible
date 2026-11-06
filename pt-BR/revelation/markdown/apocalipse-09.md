@@ -14,7 +14,7 @@
 
 <sup>13</sup>E o sexto anjo tocou a trombeta: ouvi uma voz que vinha dos quatro chifres do altar de ouro que está diante de Deus,[^13] <sup>14</sup>dizendo ao sexto anjo, que tinha a trombeta: Solta os quatro anjos que estão amarrados junto ao grande rio Eufrates.[^14] <sup>15</sup>Então foram soltos os quatro anjos que tinham sido preparados para a hora, e dia, e mês, e ano, para que matassem a terça parte dos homens.[^15] <sup>16</sup>O número dos exércitos da cavalaria era de duzentos milhões; ouvi o número deles.[^16]
 
-<sup>17</sup>Assim vi os cavalos na visão, e os que estavam montados neles, tendo couraças cor de fogo, e de jacinto, e de enxofre; e as cabeças dos cavalos eram como cabeças de leões, e das suas bocas sai fogo, e fumaça, e enxofre.[^17] <sup>18</sup>Por estas três pragas foi morta a terça parte dos homens: pelo fogo, e pela fumaça, e pelo enxofre que saía das suas bocas.[^18] <sup>19</sup>Porque a autoridade dos cavalos está na sua boca e nas suas caudas; pois as suas caudas são semelhantes a serpentes, tendo cabeças, e com elas causam dano.
+<sup>17</sup>Assim vi os cavalos na visão, e os que estavam montados neles, tendo couraças cor de fogo, e de jacinto, e de enxofre; e as cabeças dos cavalos eram como cabeças de leões, e das suas bocas sai fogo, e fumaça, e enxofre.[^17] <sup>18</sup>Por estas três pragas foi morta a terça parte dos homens: pelo fogo, e pela fumaça, e pelo enxofre que saía das suas bocas.[^18] <sup>19</sup>Porque a autoridade dos cavalos está na sua boca e nas suas caudas; pois as suas caudas são semelhantes a serpentes, tendo cabeças, e com elas causam dano.[^19]
 
 <sup>20</sup>Os restantes dos homens, que não foram mortos por estas pragas, nem assim se arrependeram das obras das suas mãos, para que não adorassem os demônios e os ídolos de ouro, e de prata, e de bronze, e de pedra, e de madeira, que não podem ver, nem ouvir, nem andar;[^20] <sup>21</sup>e não se arrependeram dos seus homicídios, nem das suas feitiçarias, nem da sua prostituição, nem dos seus furtos.[^21]
 
@@ -22,15 +22,15 @@
 
 [^1]: **9:1** “Que tinha caído”: gr. πεπτωκότα, particípio perfeito. “Poço do abismo”: gr. φρέαρ τῆς ἀβύσσου (cf. 11:7; 17:8; 20:1–3).
 
-[^2]: **9:2** “Fornalha”: cf. Gn 19:28; Êx 19:18. “Foram escurecidos”: cf. Jl 2:10.
+[^2]: **9:2** “Fornalha”: cf. Gn 19:28; Êx 19:18. “Foram escurecidos”: cf. Jl 2:10. Variante: o texto bizantino lê “uma fornalha ardente”.
 
 [^3]: **9:3** “Gafanhotos”: cf. Êx 10:12–15; Jl 1:4; 2:4–10.
 
-[^4]: **9:4** “Planta verde”: gr. χλωρόν, lit. “coisa verde” (cf. 8:7). “Senão”: gr. εἰ μή. “O selo de Deus sobre as testas”: cf. 7:2–3; Ez 9:4, 6. Variante: o Textus Receptus lê “somente aos homens”.
+[^4]: **9:4** “Planta verde”: gr. χλωρόν, lit. “coisa verde” (cf. 8:7). “Senão”: gr. εἰ μή. “O selo de Deus sobre as testas”: cf. 7:2–3; Ez 9:4, 6. Variante: o texto bizantino e o Textus Receptus leem “sobre as suas testas”; o Textus Receptus também lê “somente aos homens”.
 
 [^5]: **9:5** “Atormentados”: gr. βασανίζω (cf. 14:10; 20:10). “Cinco meses”: cf. 9:10. “Fere”: gr. παίω, “golpear”.
 
-[^6]: **9:6** “De modo algum”: gr. οὐ μή. “Foge”: presente no grego; o texto bizantino e o Textus Receptus leem “fugirá”. Cf. Jó 3:21; Jr 8:3.
+[^6]: **9:6** “De modo algum”: gr. οὐ μή; o Textus Receptus lê “não acharão”. “Foge”: presente no grego; o texto bizantino e o Textus Receptus leem “fugirá”. Cf. Jó 3:21; Jr 8:3.
 
 [^7]: **9:7** “Figuras”: gr. ὁμοιώματα, lit. “semelhanças”. “Cavalos preparados para a guerra”: cf. Jl 2:4–5; Jó 39:19–25. “Como que coroas”: gr. ὡς στέφανοι.
 
@@ -38,23 +38,25 @@
 
 [^9]: **9:9** “Som”: gr. φωνή, “voz”. Cf. Jl 2:5.
 
-[^10]: **9:10** “Ferrões”: gr. κέντρα.
+[^10]: **9:10** “Ferrões”: gr. κέντρα. Variante: o Textus Receptus lê “e havia ferrões nas suas caudas”; o texto bizantino, “e têm autoridade de causar dano”.
 
-[^11]: **9:11** “Abadom”: heb. אֲבַדּוֹן‎, “destruição” (cf. Jó 26:6; 28:22; Sl 88:11; Pv 15:11). “Apoliom”: gr. Ἀπολλύων, “destruidor”.
+[^11]: **9:11** “Abadom”: heb. אֲבַדּוֹן‎, “destruição” (cf. Jó 26:6; 28:22; Sl 88:11 (heb. 88:12); Pv 15:11). “Apoliom”: gr. Ἀπολλύων, “destruidor”.
 
 [^12]: **9:12** “Ai”: gr. οὐαί (cf. 8:13; 11:14).
 
-[^13]: **9:13** “Uma voz”: gr. φωνὴν μίαν, lit. “uma só voz”. “Chifres do altar”: cf. Êx 30:1–3; Ap 8:3. “Quatro”: gr. τεσσάρων, conforme o texto bizantino e o Textus Receptus; o SBLGNT segue o papiro 47 e o Códice Alexandrino, que omitem “quatro”.
+[^13]: **9:13** “Uma voz”: gr. φωνὴν μίαν, lit. “uma só voz”. “Chifres do altar de ouro”: cf. Êx 30:1–3; Ap 8:3. “Quatro”: gr. τεσσάρων, conforme o texto bizantino e o Textus Receptus; o SBLGNT segue o papiro 47 e o Códice Alexandrino, que omitem “quatro”.
 
 [^14]: **9:14** “Solta”: gr. λῦσον. “Amarrados”: gr. δεδεμένους, particípio perfeito. “O grande rio Eufrates”: cf. 16:12; Gn 15:18; Is 8:7.
 
-[^15]: **9:15** “Para a hora, e dia, e mês, e ano”: um só artigo para os quatro termos, que podem indicar um momento marcado. Leitura alternativa: um período formado pela soma dos quatro termos (cf. Nm 14:34; Ez 4:6, um dia por um ano).
+[^15]: **9:15** “Para a hora, e dia, e mês, e ano”: um só artigo para os quatro termos, que podem indicar um momento marcado. Leitura alternativa: um período formado pela soma dos quatro termos (cf. Nm 14:34; Ez 4:6, um dia por um ano). Variante: o texto bizantino lê “para a hora e para o dia”.
 
 [^16]: **9:16** “Duzentos milhões”: gr. δισμυριάδες μυριάδων, lit. “duas miríades de miríades”, isto é, duas vezes dez mil vezes dez mil (cf. 5:11; Dn 7:10). Variante: o texto bizantino lê “miríades de miríades”.
 
 [^17]: **9:17** “Cor de fogo… de jacinto… de enxofre”: gr. πυρίνους, ὑακινθίνους, θειώδεις, lit. “de fogo, de jacinto, de enxofre”; jacinto é uma pedra azul-escura ou púrpura. “Fogo, e fumaça, e enxofre”: cf. Gn 19:24, 28; Ap 14:10; 19:20; 21:8.
 
-[^18]: **9:18** “Pragas”: gr. πληγαί (cf. 15:1; 16:9).
+[^18]: **9:18** “Pragas”: gr. πληγαί (cf. 15:1; 16:9). Variante: o Textus Receptus omite “pragas”.
+
+[^19]: **9:19** Variante: o Textus Receptus lê “a sua autoridade” em lugar de “a autoridade dos cavalos”.
 
 [^20]: **9:20** “Nem assim”: gr. οὐδέ; o texto bizantino e o Textus Receptus leem “não”. “Restantes”: gr. λοιποί (cf. 19:21; 20:5). “Para que não adorassem”: gr. ἵνα μή. “Ídolos… que não podem ver”: cf. Dt 4:28; Sl 115:4–7; 135:15–17; Dn 5:23.
 

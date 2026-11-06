@@ -18,7 +18,7 @@
 
 ---
 
-[^1]: **8:1** Cf. Hc 2:20; Sf 1:7; Zc 2:13.
+[^1]: **8:1** Cf. Hc 2:20; Sf 1:7; Zc 2:13 (heb. 2:17).
 
 [^2]: **8:2** “Estão de pé”: gr. ἑστήκασιν, perfeito. “Trombetas”: gr. σάλπιγγες (cf. 1:10; 4:1; Nm 10:9; Js 6:4; Jl 2:1).
 
@@ -30,15 +30,15 @@
 
 [^6]: **8:6** “Tocar”: gr. σαλπίζω, “tocar a trombeta”.
 
-[^7]: **8:7** “Saraiva e fogo”: cf. Êx 9:23–25. “Verde”: gr. χλωρός, o mesmo termo traduzido “pálido” em 6:8. Variante: o Textus Receptus lê “o primeiro anjo” e omite “e a terça parte da terra foi queimada”.
+[^7]: **8:7** “Saraiva e fogo”: cf. Êx 9:23–25. “Foram lançados”: gr. ἐβλήθη, singular. “Verde”: gr. χλωρός, o mesmo termo traduzido “pálido” em 6:8. Variante: o Textus Receptus lê “o primeiro anjo” e omite “e a terça parte da terra foi queimada”.
 
-[^8]: **8:8** “Como que um grande monte”: gr. ὡς ὄρος μέγα. Cf. Jr 51:25. “Se tornou sangue”: cf. Êx 7:20–21.
+[^8]: **8:8** “Como que um grande monte”: gr. ὡς ὄρος μέγα. Cf. Jr 51:25. “Se tornou sangue”: cf. Êx 7:20–21. Variante: o texto bizantino omite “em fogo”; o Textus Receptus o tem.
 
 [^9]: **8:9** “Criaturas”: gr. κτίσματα (cf. 5:13). “Que tinham vida”: gr. τὰ ἔχοντα ψυχάς, lit. “que tinham almas” (cf. 6:9; 16:3).
 
 [^10]: **8:10** “Tocha”: gr. λαμπάς (cf. 4:5).
 
-[^11]: **8:11** “A estrela se chama Absinto”: lit. “o nome da estrela é dito: o Absinto”. “Absinto”: gr. ἄψινθος, planta de sabor amargo. Cf. Jr 9:15; 23:15; Am 5:7; Êx 15:23.
+[^11]: **8:11** “A estrela se chama Absinto”: lit. “o nome da estrela é dito: o Absinto”. “Absinto”: gr. ἄψινθος, planta de sabor amargo. Cf. Jr 9:15 (heb. 9:14); 23:15; Am 5:7; Êx 15:23.
 
 [^12]: **8:12** “Foi ferida”: gr. πλήσσω. Cf. Êx 10:21–23; Jl 2:10; Am 8:9.
 

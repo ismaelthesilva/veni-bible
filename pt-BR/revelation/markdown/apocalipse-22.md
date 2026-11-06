@@ -22,13 +22,13 @@
 
 ---
 
-[^1]: **22:1** “Rio de água da vida”: cf. 7:17; 21:6; Ez 47:1–12; Zc 14:8; Sl 46:4; Jo 7:38. “Resplandecente”: gr. λαμπρός (cf. 15:6; 19:8). “Saindo”: gr. ἐκπορεύομαι. Variante: o texto bizantino e o Textus Receptus leem “um rio puro de água da vida”.
+[^1]: **22:1** “Rio de água da vida”: cf. 7:17; 21:6; Ez 47:1–12; Zc 14:8; Sl 46:4 (heb. 46:5) [LXX 45:5]; Jo 7:38. “Resplandecente”: gr. λαμπρός (cf. 15:6; 19:8). “Saindo”: gr. ἐκπορεύομαι. Variante: o texto bizantino e o Textus Receptus leem “um rio puro de água da vida”.
 
 [^2]: **22:2** “Praça”: gr. πλατεῖα (cf. 21:21). “De um lado e do outro do rio”: gr. ἐντεῦθεν καὶ ἐκεῖθεν (cf. Ez 47:7, 12). “A árvore da vida”: gr. ξύλον ζωῆς, coletivo possível, “árvores” (cf. 2:7; 22:14, 19; Gn 2:9; 3:22–24). “A cada mês”: lit. “segundo cada mês”. “Cura”: gr. θεραπεία (cf. Ez 47:12).
 
 [^3]: **22:3** “Maldição”: gr. κατάθεμα, “coisa amaldiçoada” (cf. Gn 3:17; Zc 14:11); o Textus Receptus lê κατανάθεμα. “O trono de Deus e do Cordeiro”: cf. 3:21; 7:17. “Os Seus servos O servirão”: gr. αὐτοῦ… αὐτῷ, singular, referido a Deus e ao Cordeiro juntos (cf. 11:15; 20:6). “Servirão”: gr. λατρεύω, servir em culto (cf. 7:15).
 
-[^4]: **22:4** “Verão a Sua face”: cf. Êx 33:20, 23; Sl 17:15; Mt 5:8; 1Co 13:12; 1Jo 3:2. “O Seu nome… sobre as suas testas”: cf. 3:12; 7:3; 14:1, em contraste com 13:16–17.
+[^4]: **22:4** “Verão a Sua face”: cf. Êx 33:20, 23; Sl 17:15 [LXX 16:15]; Mt 5:8; 1Co 13:12; 1Jo 3:2. “O Seu nome… sobre as suas testas”: cf. 3:12; 7:3; 14:1, em contraste com 13:16–17.
 
 [^5]: **22:5** “Não haverá mais noite”: cf. 21:25; Zc 14:7. “Não têm necessidade”: presente no grego (cf. 21:23). “Os iluminará”: gr. φωτίσει ἐπ’ αὐτούς, lit. “iluminará sobre eles” (cf. Is 60:19–20; Nm 6:25). “Reinarão”: cf. 5:10; 20:4, 6; Dn 7:18, 27. Variante: o texto bizantino e o Textus Receptus leem “não haverá ali noite” e “necessidade de lâmpada”; o Textus Receptus lê “os ilumina”.
 
@@ -44,19 +44,19 @@
 
 [^11]: **22:11** “O que é injusto”: gr. ὁ ἀδικῶν, “o que pratica a injustiça”; o mesmo verbo é “causar dano” em 2:11; 7:2–3. “Ainda”: gr. ἔτι, “continue”. Cf. Dn 12:10; Ez 3:27. “Seja santificado”: gr. ἁγιασθήτω (cf. Lv 11:44). Variante: o Textus Receptus lê “e o justo, seja justificado ainda”.
 
-[^12]: **22:12** “Galardão”: gr. μισθός (cf. 11:18; Is 40:10; 62:11). “Retribuir a cada um conforme a sua obra”: lit. “conforme é a sua obra” (cf. 2:23; 20:12–13; Sl 62:12; Pv 24:12; Mt 16:27; Rm 2:6). Variante: o texto bizantino e o Textus Receptus leem “conforme for a sua obra”.
+[^12]: **22:12** “Galardão”: gr. μισθός (cf. 11:18; Is 40:10; 62:11). “Retribuir a cada um conforme a sua obra”: lit. “conforme é a sua obra” (cf. 2:23; 20:12–13; Sl 62:12 (heb. 62:13) [LXX 61:13]; Pv 24:12; Mt 16:27; Rm 2:6). Variante: o texto bizantino e o Textus Receptus leem “conforme for a sua obra”.
 
 [^13]: **22:13** “O Alfa e o Ômega”: cf. 1:8; 21:6. “O Primeiro e o Último”: cf. 1:17; 2:8; Is 44:6; 48:12. “O Princípio e o Fim”: cf. 3:14; 21:6. Títulos de Deus em 1:8 e 21:6, aqui na boca de Jesus (cf. 22:16). Variante: o Textus Receptus lê “o Princípio e o Fim, o Primeiro e o Último”.
 
-[^14]: **22:14** “Bem-aventurados”: a sétima das sete bem-aventuranças do livro (cf. 1:3; 14:13; 16:15; 19:9; 20:6; 22:7). “Os que lavam as suas vestes”: gr. οἱ πλύνοντες τὰς στολὰς αὐτῶν (cf. 7:14; 3:4–5; 19:8); leitura do Códice Sinaítico e do Códice Alexandrino. Variante: o texto bizantino e o Textus Receptus leem “os que praticam os Seus mandamentos”, gr. οἱ ποιοῦντες τὰς ἐντολὰς αὐτοῦ (cf. 12:17; 14:12; Jo 14:15; 1Jo 5:3). Em letras maiúsculas gregas as duas leituras são muito parecidas. “Direito”: gr. ἐξουσία, “autoridade, direito” (cf. 2:7; 22:2, 19). “Pelas portas”: cf. 21:12, 25, 27; Sl 118:19–20; Gn 3:24.
+[^14]: **22:14** “Bem-aventurados”: a sétima das sete bem-aventuranças do livro (cf. 1:3; 14:13; 16:15; 19:9; 20:6; 22:7). “Os que lavam as suas vestes”: gr. οἱ πλύνοντες τὰς στολὰς αὐτῶν (cf. 7:14; 3:4–5; 19:8); leitura do Códice Sinaítico e do Códice Alexandrino. Variante: o texto bizantino e o Textus Receptus leem “os que praticam os Seus mandamentos”, gr. οἱ ποιοῦντες τὰς ἐντολὰς αὐτοῦ (cf. 12:17; 14:12; Jo 14:15; 1Jo 5:3). Em letras maiúsculas gregas as duas leituras são muito parecidas. “Direito”: gr. ἐξουσία, “autoridade, direito” (cf. 2:7; 22:2, 19). “Pelas portas”: cf. 21:12, 25, 27; Sl 118:19–20 [LXX 117:19–20]; Gn 3:24.
 
-[^15]: **22:15** “Fora”: cf. 21:8, 27; Mt 8:12. “Cães”: imagem dos impuros (cf. Dt 23:18; Fp 3:2). “Feiticeiros… imorais… homicidas… idólatras”: cf. 21:8. “Que ama e pratica a mentira”: cf. 14:5; 21:27; 2Ts 2:10–12.
+[^15]: **22:15** “Fora”: cf. 21:8, 27; Mt 8:12. “Cães”: imagem dos impuros (cf. Dt 23:18 (heb. 23:19); Fp 3:2). “Feiticeiros… imorais… homicidas… idólatras”: cf. 21:8. “Que ama e pratica a mentira”: cf. 14:5; 21:27; 2Ts 2:10–12.
 
 [^16]: **22:16** “Eu, Jesus”: cf. 1:1. “Nas igrejas”: gr. ἐπὶ ταῖς ἐκκλησίαις, também “para as igrejas” ou “a respeito das igrejas”. “A Raiz e a Descendência de Davi”: cf. 5:5; Is 11:1, 10; Rm 1:3. “A Estrela resplandecente da manhã”: cf. 2:28; Nm 24:17; 2Pe 1:19. Variante: o Textus Receptus lê “a Estrela resplandecente e da alva”.
 
 [^17]: **22:17** “O Espírito”: cf. 2:7; 14:13. “A noiva”: cf. 21:2, 9. “Vem!”: gr. ἔρχου (cf. 22:20). “O que tem sede… de graça”: cf. 21:6; Is 55:1; Jo 7:37. Variante: o Textus Receptus lê “e quem quiser”.
 
-[^18]: **22:18** “Eu testemunho”: gr. μαρτυρῶ (cf. 1:2); o Textus Receptus lê “Pois testemunho juntamente”. “Se alguém lhes acrescentar”: cf. Dt 4:2; 12:32; Pv 30:6. “As pragas”: cf. 15:1, 6; 16:1–21; Dt 29:20.
+[^18]: **22:18** “Eu testemunho”: gr. μαρτυρῶ (cf. 1:2); o Textus Receptus lê “Pois testemunho juntamente”. “Se alguém lhes acrescentar”: cf. Dt 4:2; 12:32 (heb. 13:1); Pv 30:6 [LXX 24:29]. “As pragas”: cf. 15:1, 6; 16:1–21; Dt 29:20 (heb. 29:19). Variante: o texto bizantino lê “acrescente-lhe Deus” (e, no v. 19, “tire Deus”).
 
 [^19]: **22:19** “Tirar”: gr. ἀφαιρέω (cf. Dt 4:2). “A sua parte da árvore da vida”: cf. 2:7; 22:2, 14. Variante: o Textus Receptus lê “do livro da vida”, leitura sem apoio nos manuscritos gregos antigos (cf. 3:5; 20:12).
 

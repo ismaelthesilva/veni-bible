@@ -47,7 +47,7 @@
 
 [^3]: **1:3** Um só “bem-aventurado” (μακάριος): o leitor, no singular (quem lia em voz alta na assembleia), e um único grupo que ouve e guarda; um só artigo rege os dois particípios. τηρέω = “guardar” em todo o livro (cf. 12:17; 14:12).
 
-[^4]: **1:4** Gr. ἀπὸ ὁ ὤν: o nome divino permanece no nominativo após a preposição, como nome indeclinável (cf. Êx 3:14). “Que Vem”: presente (ὁ ἐρχόμενος). “Sete Espíritos”: a maiúscula indica a leitura como o Espírito Santo em sua plenitude.
+[^4]: **1:4** Gr. ἀπὸ ὁ ὤν: o nome divino permanece no nominativo após a preposição, como nome indeclinável (cf. Êx 3:14). “Que Vem”: presente (ὁ ἐρχόμενος), o mesmo verbo de “Ele vem” em 1:7. “Sete Espíritos”: a maiúscula segue o lugar que ocupam na saudação, entre Aquele Que É e Jesus Cristo, como fonte da graça e da paz; leitura alternativa: sete espíritos angélicos (cf. 8:2).
 
 [^5]: **1:5** Variantes: o Textus Receptus lê “nos amou”; ele e o texto bizantino leem “nos lavou” (λούσαντι). Segue-se o SBLGNT, com o papiro 18 e os códices Sinaítico, Alexandrino e de Efrém: “nos ama” (ἀγαπῶντι) e “nos libertou” (λύσαντι).
 
@@ -55,17 +55,17 @@
 
 [^7]: **1:7** Cf. Dn 7:13; Zc 12:10. “Sim, amém”: gr. ναί (grego) + ἀμήν (hebraico), dupla afirmação.
 
-[^8]: **1:8** “Todo-Poderoso”: gr. παντοκράτωρ, que na Septuaginta traduz “Senhor dos Exércitos”.
+[^8]: **1:8** “Todo-Poderoso”: gr. παντοκράτωρ, que na Septuaginta traduz geralmente “Senhor dos Exércitos” (p. ex. Am 4:13) e, em Jó, “Shaddai”. Variante: o Textus Receptus acrescenta “o Princípio e o Fim” e lê “diz o Senhor”, sem “Deus”.
 
 [^9]: **1:9** “Estive” traduz ἐγενόμην, verbo repetido em 1:9, 1:10 e 1:18. ὑπομονή = “perseverança” (cf. 14:12). Variante: o texto bizantino lê “em Cristo Jesus”, e o Textus Receptus, “de Jesus Cristo”; ambos leem “o Testemunho de Jesus Cristo”.
 
 [^10]: **1:10** Gr. ἐν τῇ κυριακῇ ἡμέρᾳ, com o adjetivo κυριακός, “pertencente ao Senhor”; o texto não nomeia o dia. Cf. Êx 20:10; Is 58:13; Mc 2:28.
 
-[^11]: **1:11** Gr. βιβλίον, um rolo; “livro” mantido por concordância com 5:1ss.
+[^11]: **1:11** Gr. βιβλίον, um rolo; “livro” mantido por concordância com 5:1ss. Variante: o Textus Receptus inicia a fala com “Eu sou o Alfa e o Ômega, o Primeiro e o Último” e acrescenta “que estão na Ásia”.
 
 [^12]: **1:12** Gr. λυχνία; cf. o candelabro do santuário, Êx 25:31–37.
 
-[^13]: **1:13** Cf. Dn 7:13. “Túnica que descia até os pés”: gr. ποδήρη, termo das vestes do sumo sacerdote na Septuaginta (Êx 28:4, 31).
+[^13]: **1:13** Cf. Dn 7:13; “um Filho de Homem”: gr. υἱὸν ἀνθρώπου, sem artigo, como em Daniel. “Túnica que descia até os pés”: gr. ποδήρη, termo das vestes do sumo sacerdote na Septuaginta (Êx 28:4; 28:31 [LXX 28:27]; cf. Zc 3:4). A maiúscula segue a autoidentificação de 1:17–18. Variante: o texto bizantino e o Textus Receptus leem “os sete candelabros”.
 
 [^14]: **1:14** Cf. Dn 7:9 (o Ancião de Dias).
 
@@ -73,9 +73,9 @@
 
 [^16]: **1:16** Cf. Is 49:2; Jz 5:31.
 
-[^17]: **1:17** “Destra”: gr. τὴν δεξιάν, sem a palavra “mão” (também em 1:20); em 1:16 o grego traz “mão direita”. Cf. Is 44:6; 48:12.
+[^17]: **1:17** “Destra”: gr. τὴν δεξιάν, sem a palavra “mão” (também em 1:20); em 1:16 o grego traz “mão direita”. Variante: o Textus Receptus acrescenta “mão” aqui. Cf. Is 44:6; 48:12.
 
-[^18]: **1:18** “Sepultura”: gr. hades, equivalente ao heb. sheol (cf. Os 13:14; 1Co 15:55).
+[^18]: **1:18** “Sepultura”: gr. hades, equivalente ao heb. sheol (cf. Os 13:14). Variante: o texto bizantino e o Textus Receptus acrescentam “Amém” após “pelos séculos dos séculos”; o Textus Receptus lê “da sepultura e da morte”.
 
 [^19]: **1:19** Ou: “as coisas que viste, isto é, as que são e as que estão para acontecer depois destas”.
 

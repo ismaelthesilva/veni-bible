@@ -37,27 +37,27 @@ Conheço as tuas obras, que tens o nome de quem vive, e estás morto.[^1] <sup>2
 
 [^1]: **3:1** “Sete Espíritos”: cf. 1:4. “Tens o nome de quem vive”: gr. ὄνομα ἔχεις ὅτι ζῇς, lit. “nome de que vives”; “nome”, isto é, reputação; a palavra se repete em 3:4–5.
 
-[^2]: **3:2** “Sê vigilante”: gr. γίνου γρηγορῶν, como “Sê fiel” (2:10); γρηγορέω = “vigiar” (3:3; 16:15). “As coisas que restam”: gr. τὰ λοιπά (plural); o Textus Receptus lê o verbo no singular (μέλλει).
+[^2]: **3:2** “Sê vigilante”: gr. γίνου γρηγορῶν, como “Sê fiel” (2:10); γρηγορέω = “vigiar” (3:3; 16:15). “As coisas que restam”: gr. τὰ λοιπά (plural). Variante: o texto bizantino lê “que estavas para lançar fora” (ἔμελλες ἀποβάλλειν); o Textus Receptus, “que está para morrer” (μέλλει, singular e presente) e “diante de Deus”, sem “Meu”.
 
-[^3]: **3:3** “Como ladrão”: cf. 16:15; Mt 24:43; 1Ts 5:2. “Virei”: gr. ἥξω, como em 2:25 (“até que Eu venha”). Gr. οὐ μή, negação enfática.
+[^3]: **3:3** “Como ladrão”: cf. 16:15; Mt 24:43; 1Ts 5:2. “Virei”: gr. ἥξω, como em 2:25 (“até que Eu venha”). “De modo algum”: gr. οὐ μή, negação enfática. Variante: o texto bizantino e o Textus Receptus leem “virei sobre ti como ladrão”.
 
 [^4]: **3:4** “Nomes”: isto é, pessoas (cf. At 1:15); jogo de palavras com “nome” em 3:1 e 3:5. “Vestes”: gr. ἱμάτια (cf. 3:5, 18; 16:15). “Contaminaram”: gr. μολύνω (cf. 14:4).
 
-[^5]: **3:5** “Livro da vida”: cf. Êx 32:32–33; Dn 12:1; Fp 4:3; Ap 13:8; 20:12, 15. “Apagarei”: gr. ἐξαλείφω, o mesmo verbo de 7:17 e 21:4 (“enxugará”). Cf. Mt 10:32.
+[^5]: **3:5** “Livro da vida”: cf. Êx 32:32–33; Dn 12:1; Fp 4:3; Ap 13:8; 20:12, 15. “Apagarei”: gr. ἐξαλείφω, o mesmo verbo de 7:17 e 21:4 (“enxugará”). Cf. Mt 10:32. Variante: o texto bizantino e o Textus Receptus leem “este será envolto” (οὗτος) em lugar de “será assim envolto” (οὕτως).
 
-[^7]: **3:7** Cf. Is 22:22. “Verdadeiro”: gr. ἀληθινός (cf. 3:14; 19:11). Variante: o Textus Receptus lê “e ninguém fecha, e fecha” (κλείει, nos dois casos).
+[^7]: **3:7** Cf. Is 22:22. “Verdadeiro”: gr. ἀληθινός (cf. 3:14; 19:11). Variante: o Textus Receptus lê “e ninguém fecha, e fecha, e ninguém abre” (κλείει, presente, nos dois casos); o texto bizantino, “e ninguém a fechará, senão aquele que abre, e ninguém abrirá”.
 
 [^8]: **3:8** “Pus”: gr. δέδωκα, lit. “dei”. “Que tens”: ou “porque tens”. “Poder”: gr. δύναμις (cf. 4:11; 5:12).
 
-[^9]: **3:9** “Entrego”: gr. διδῶ, lit. “dou”; a frase grega se interrompe e recomeça (“eis que os farei…”). “Curvar-se”: gr. προσκυνέω, o verbo traduzido “adorar” quando o objeto é Deus (cf. 4:10; 14:7); aqui, homenagem (cf. Is 60:14). Sobre “sinagoga de Satanás”, cf. 2:9.
+[^9]: **3:9** “Entrego”: gr. διδῶ, lit. “dou”; a frase grega se interrompe e recomeça (“eis que os farei…”). “Curvar-se”: gr. προσκυνέω, o verbo traduzido “adorar” quando o objeto é Deus (cf. 4:10; 14:7); aqui, homenagem (cf. Is 60:14 heb.; 45:14; 49:23). Sobre “sinagoga de Satanás”, cf. 2:9.
 
 [^10]: **3:10** “Guardaste… guardarei”: o mesmo verbo (τηρέω). “A palavra da Minha perseverança”: ou “a Minha palavra sobre a perseverança”. “Provação… provar”: gr. πειρασμός / πειράζω (cf. πειράζω em 2:2, 10). “O mundo inteiro”: gr. οἰκουμένη ὅλη (cf. 12:9). “Os que habitam sobre a terra”: fórmula recorrente (cf. 6:10; 13:8).
 
-[^11]: **3:11** “Em breve”: gr. ταχύ (cf. 2:16). “Retém”: gr. κρατέω (cf. 2:25). “Coroa”: gr. στέφανος (cf. 2:10).
+[^11]: **3:11** “Em breve”: gr. ταχύ (cf. 2:16). “Retém”: gr. κρατέω (cf. 2:25). “Coroa”: gr. στέφανος (cf. 2:10). Variante: o Textus Receptus começa com “Eis que venho em breve”.
 
 [^12]: **3:12** “Santuário”: gr. ναός, a parte interior do templo, distinta de ἱερόν, o conjunto do templo; no Apocalipse, sempre ναός (cf. 7:15; 11:19; 15:5). “Nova Jerusalém”: cf. 21:2. “Nome novo”: cf. 2:17; Is 62:2.
 
-[^14]: **3:14** “O Amém”: cf. Is 65:16 (heb. “o Deus do amém”). “Princípio”: gr. ἀρχή, “princípio, origem”; o mesmo termo usado como título em 21:6 e 22:13 (“o Princípio e o Fim”). Cf. Jo 1:3; Cl 1:15–18.
+[^14]: **3:14** “O Amém”: cf. Is 65:16 (heb. “o Deus do amém”; Septuaginta “o Deus verdadeiro”). “Princípio”: gr. ἀρχή, “princípio, origem” ou “governante”; o mesmo termo usado como título em 21:6 e 22:13 (“o Princípio e o Fim”). Cf. Jo 1:3; Cl 1:15–18.
 
 [^15]: **3:15** “Quente”: gr. ζεστός, lit. “que ferve”.
 
@@ -67,7 +67,7 @@ Conheço as tuas obras, que tens o nome de quem vive, e estás morto.[^1] <sup>2
 
 [^18]: **3:18** “Refinado”: gr. πυρόω (cf. 1:15). “Te cubras”: gr. περιβάλλω, o mesmo verbo de 3:5 (“envolto”).
 
-[^19]: **3:19** “Amo”: gr. φιλέω. Cf. Pv 3:12.
+[^19]: **3:19** “Amo”: gr. φιλέω. Cf. Pv 3:12 (Septuaginta, com o mesmo verbo “repreender”).
 
 [^20]: **3:20** “Estou de pé”: perfeito (ἕστηκα), “pus-Me de pé e permaneço”. “Entrarei”: o grego traz “e entrarei” (καί que introduz a consequência, à maneira hebraica). “Cearei”: gr. δειπνέω; cf. δεῖπνον, a ceia das bodas (19:9).
 

@@ -29,15 +29,15 @@
 
 [^2]: **21:2** “A cidade santa, a nova Jerusalém”: cf. 3:12; 11:2; Is 52:1; Hb 11:10, 16; 12:22. “Da parte de Deus”: gr. ἀπὸ τοῦ θεοῦ (cf. 3:12; 21:10). “Noiva”: gr. νύμφη (cf. 18:23; 21:9; 22:17). “Adornada”: gr. κοσμέω (cf. 21:19; Is 61:10). Variante: o Textus Receptus lê “E eu, João, vi a cidade santa”.
 
-[^3]: **21:3** “Vinda do trono”: o texto bizantino e o Textus Receptus leem “do céu”. “Tabernáculo… terá o Seu tabernáculo”: gr. σκηνή… σκηνώσει (cf. 7:15; 12:12; 13:6; Jo 1:14); eco de Lv 26:11–12 e Ez 37:27. “Os Seus povos”: gr. λαοί, plural (cf. Zc 2:11); o texto bizantino lê o singular, “o Seu povo”. Variante: o Códice Alexandrino e o Textus Receptus acrescentam “como o seu Deus” no fim do versículo.
+[^3]: **21:3** “Vinda do trono”: o texto bizantino e o Textus Receptus leem “do céu”. “Tabernáculo… terá o Seu tabernáculo”: gr. σκηνή… σκηνώσει (cf. 7:15; 12:12; 13:6; Jo 1:14); eco de Lv 26:11–12 e Ez 37:27. “Os Seus povos”: gr. λαοί, plural (cf. Zc 2:11 (heb. 2:15)); o texto bizantino lê o singular, “o Seu povo”. Variante: o Códice Alexandrino e o Textus Receptus acrescentam “seu Deus” no fim do versículo.
 
 [^4]: **21:4** “Enxugará toda lágrima”: cf. 7:17; Is 25:8. “A morte não existirá mais”: cf. 20:14; 1Co 15:26, 54. “Luto”: gr. πένθος (cf. 18:7–8). “Pranto”: gr. κραυγή, lit. “clamor, grito”. “Dor”: gr. πόνος (cf. 16:10–11). “As primeiras coisas passaram”: cf. Is 43:18–19; 65:16–17; 2Co 5:17. Variante: o texto bizantino e o Textus Receptus leem “porque as primeiras coisas passaram”; o Textus Receptus acrescenta “Deus” depois de “enxugará”.
 
-[^5]: **21:5** “Eis que faço novas todas as coisas”: gr. καινὰ ποιῶ πάντα (cf. Is 43:19). “E diz”: o texto bizantino e o Textus Receptus acrescentam “-me”. “Fiéis e verdadeiras”: cf. 3:14; 19:9, 11; 22:6.
+[^5]: **21:5** “Eis que faço novas todas as coisas”: gr. καινὰ ποιῶ πάντα (cf. Is 43:19). “E diz”: o texto bizantino e o Textus Receptus acrescentam “-me”. “Fiéis e verdadeiras”: cf. 3:14; 19:9, 11; 22:6; o texto bizantino e o Textus Receptus leem “verdadeiras e fiéis”.
 
 [^6]: **21:6** “Está feito”: gr. γέγοναν, perfeito plural, lit. “Estão feitas”, referido a “todas as coisas” do v. 5 (cf. 16:17). Variantes: o Códice Sinaítico e o texto bizantino leem γέγονα; o Textus Receptus lê o singular γέγονε. “O Alfa e o Ômega”: cf. 1:8; 22:13. “O Princípio e o Fim”: gr. ἡ ἀρχὴ καὶ τὸ τέλος (cf. 3:14; 22:13; Is 44:6). “Ao que tem sede… de graça”: gr. δωρεάν (cf. 7:16–17; 22:17; Is 55:1; Jo 4:10, 14).
 
-[^7]: **21:7** “O que vence”: cf. 2:7, 11, 17, 26; 3:5, 12, 21. “Herdará estas coisas”: o Textus Receptus lê “herdará todas as coisas”. “Eu serei o seu Deus, e ele será Meu filho”: lit. “Eu lhe serei Deus, e ele Me será filho” (cf. 2Sm 7:14; Sl 89:26–27; Jr 31:33).
+[^7]: **21:7** “O que vence”: cf. 2:7, 11, 17, 26; 3:5, 12, 21. “Herdará estas coisas”: o Textus Receptus lê “herdará todas as coisas”. “Eu serei o seu Deus, e ele será Meu filho”: lit. “Eu lhe serei Deus, e ele Me será filho” (cf. 2Sm 7:14; Sl 89:26–27 (heb. 89:27–28) [LXX 88:27–28]; Jr 31:33 [LXX 38:33]).
 
 [^8]: **21:8** “Infiéis”: gr. ἄπιστοι, em contraste com as palavras “fiéis” (πιστοί) do v. 5; ou “incrédulos”. “Abomináveis”: gr. ἐβδελυγμένοι, “os que se tornaram abomináveis” (cf. 17:4–5; 21:27). “Homicidas”: gr. φονεῖς (cf. 9:21). “Imorais”: gr. πόρνοι, os que praticam a prostituição, πορνεία (cf. 2:14, 20–21; 22:15). “Feiticeiros”: gr. φάρμακοι (cf. 9:21; 18:23; 22:15). “A segunda morte”: cf. 2:11; 20:6, 14. Variante: o texto bizantino acrescenta “e pecadores” depois de “infiéis”.
 
@@ -53,15 +53,15 @@
 
 [^14]: **21:14** “Fundamentos”: gr. θεμέλιοι (cf. Hb 11:10; Ef 2:20). “Doze nomes dos doze apóstolos do Cordeiro”: cf. Mt 10:2; o Textus Receptus lê “e neles os nomes”.
 
-[^15]: **21:15** “Cana”: gr. κάλαμος, vara de medir (cf. 11:1; Ez 40:3, 5; Zc 2:1–2). “Como medida”: gr. μέτρον; o Textus Receptus omite.
+[^15]: **21:15** “Cana”: gr. κάλαμος, cana de medir (cf. 11:1; Ez 40:3, 5; Zc 2:1–2 (heb. 2:5–6)). “Como medida”: gr. μέτρον; o Textus Receptus omite.
 
-[^16]: **21:16** “Disposta em quadrado”: gr. τετράγωνος κεῖται (cf. Ez 43:16; 48:16–20); igual em comprimento, largura e altura, como o Lugar Santíssimo (1Rs 6:20). “Doze mil estádios”: cerca de dois mil e duzentos quilômetros (mil e trezentas e oitenta milhas); um estádio, cerca de cento e oitenta e cinco metros (cf. 14:20). O número 12 × 1.000 retoma 7:4–8.
+[^16]: **21:16** “Disposta em quadrado”: gr. τετράγωνος κεῖται (cf. Ez 43:16; 48:16–20); igual em comprimento, largura e altura, como o Lugar Santíssimo (1Rs 6:20). “Doze mil estádios”: cerca de dois mil duzentos e vinte quilômetros (mil e trezentas e oitenta milhas); um estádio, cerca de cento e oitenta e cinco metros (seiscentos e sete pés) (cf. 14:20). O número 12 × 1.000 retoma 7:4–8.
 
-[^17]: **21:17** “Cento e quarenta e quatro côvados”: cerca de sessenta e cinco metros (duzentos e dezesseis pés); um côvado, cerca de quarenta e cinco centímetros. O número 12 × 12 retoma 7:4; 14:1. Não se diz se a medida é a altura ou a espessura do muro. “Medida de homem, que é a do anjo”: isto é, o anjo usou a medida humana comum.
+[^17]: **21:17** “Cento e quarenta e quatro côvados”: cerca de sessenta e cinco metros (duzentos e dezesseis pés); um côvado, cerca de quarenta e cinco centímetros (dezoito polegadas). O número 12 × 12 retoma 7:4; 14:1. Não se diz se a medida é a altura ou a espessura do muro. “Medida de homem, que é a do anjo”: isto é, o anjo usou a medida humana comum.
 
 [^18]: **21:18** “Construção”: gr. ἐνδώμησις, “estrutura, material de construção”. “Ouro puro, semelhante a vidro puro”: gr. καθαρός nas duas expressões (cf. 21:21).
 
-[^19]: **21:19** “Adornados”: gr. κοσμέω (cf. 21:2). “Toda espécie de pedras preciosas”: gr. παντὶ λίθῳ τιμίῳ, lit. “toda pedra preciosa”: cf. Êx 28:17–20; Is 54:11–12; Ez 28:13. As doze pedras correspondem, de modo geral, às do peitoral do sumo sacerdote. “Safira”: gr. σάπφιρος, provavelmente o lápis-lazúli.
+[^19]: **21:19** “Adornados”: gr. κοσμέω (cf. 21:2). “Toda espécie de pedras preciosas”: gr. παντὶ λίθῳ τιμίῳ, lit. “toda pedra preciosa”; cf. Êx 28:17–20; Is 54:11–12; Ez 28:13. As doze pedras correspondem, de modo geral, às do peitoral do sumo sacerdote. “Safira”: gr. σάπφιρος, provavelmente o lápis-lazúli.
 
 [^20]: **21:20** A identificação exata de algumas pedras é incerta. “Sardônix”: gr. σαρδόνυξ. “Sárdio”: gr. σάρδιον (cf. 4:3). “Crisólito”: gr. χρυσόλιθος, lit. “pedra de ouro”. “Crisópraso”: gr. χρυσόπρασος, pedra verde-dourada. “Jacinto”: gr. ὑάκινθος (cf. 9:17).
 

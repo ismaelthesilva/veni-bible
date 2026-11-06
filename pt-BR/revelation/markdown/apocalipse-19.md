@@ -50,19 +50,19 @@
 
 ---
 
-[^1]: **19:1** “Como que uma grande voz de uma grande multidão”: cf. 7:9–10; 19:6. “Aleluia”: gr. ἁλληλουϊά, do hebraico, “louvai a Yah” (cf. Sl 104:35; 106:1, 48). “São do nosso Deus”: o grego não tem verbo (cf. 7:10; também 12:10). Variante: o Textus Receptus acrescenta “e a honra” e lê “ao Senhor, nosso Deus”.
+[^1]: **19:1** “Como que uma grande voz de uma grande multidão”: cf. 7:9–10; 19:6. “Aleluia”: gr. ἁλληλουϊά, do hebraico, “louvai a Yah” (cf. Sl 104:35 [LXX 103:35]; 106:1, 48 [LXX 105:1, 48]). “São do nosso Deus”: o grego não tem verbo (cf. 7:10; também 12:10). Variante: o Textus Receptus acrescenta “e a honra” e lê “ao Senhor, nosso Deus”.
 
-[^2]: **19:2** “Verdadeiros e justos são os Seus juízos”: cf. 15:3; 16:7. “Corrompeu”: gr. ἔφθειρεν (cf. 11:18, διαφθείρω). “Vingou o sangue dos Seus servos”: cf. 6:10; Dt 32:43; 2Rs 9:7. “Da mão dela”: isto é, cobrando-o dela (cf. 2Rs 9:7; Ap 18:20).
+[^2]: **19:2** “Verdadeiros e justos são os Seus juízos”: cf. 15:3; 16:7. “Corrompeu”: gr. ἔφθειρεν (cf. 11:18, διαφθείρω); o texto bizantino lê διέφθειρεν. “Vingou o sangue dos Seus servos”: cf. 6:10; Dt 32:43; 2Rs 9:7. “Da mão dela”: isto é, cobrando-o dela (cf. 2Rs 9:7; Ap 18:20).
 
 [^3]: **19:3** “Pela segunda vez”: gr. δεύτερον. “Disseram”: gr. εἴρηκαν, perfeito. “A fumaça dela sobe”: cf. 14:11; 18:9, 18; Is 34:10.
 
-[^4]: **19:4** “Se prostraram e adoraram”: cf. 4:10; 5:14; 11:16. “Amém! Aleluia!”: cf. Sl 106:48.
+[^4]: **19:4** “Se prostraram e adoraram”: cf. 4:10; 5:14; 11:16. “Amém! Aleluia!”: cf. Sl 106:48 [LXX 105:48].
 
-[^5]: **19:5** “Louvai o nosso Deus”: gr. αἰνεῖτε τῷ θεῷ ἡμῶν (cf. Sl 134:1; 135:1, 20). “Os pequenos e os grandes”: cf. 11:18; 13:16; Sl 115:13.
+[^5]: **19:5** “Louvai o nosso Deus”: gr. αἰνεῖτε τῷ θεῷ ἡμῶν (cf. Sl 134:1 [LXX 133:1]; 135:1, 20 [LXX 134:1, 20]). “Os pequenos e os grandes”: cf. 11:18; 13:16; Sl 115:13 [LXX 113:21].
 
-[^6]: **19:6** “Voz de muitas águas… de fortes trovões”: cf. 1:15; 14:2. “Começou a reinar”: gr. ἐβασίλευσεν, aoristo (cf. 11:17; Sl 93:1; 97:1; 99:1). “O Senhor Deus”: o texto bizantino lê “o Senhor, o nosso Deus”.
+[^6]: **19:6** “Voz de muitas águas… de fortes trovões”: cf. 1:15; 14:2. “Começou a reinar”: gr. ἐβασίλευσεν, aoristo (cf. 11:17; Sl 93:1 [LXX 92:1]; 97:1 [LXX 96:1]; 99:1 [LXX 98:1]). “O Senhor Deus”: o texto bizantino lê “o Senhor, o nosso Deus”.
 
-[^7]: **19:7** “Alegremo-nos, e exultemos”: cf. Sl 118:24; Mt 5:12. “E Lhe daremos”: gr. δώσομεν, futuro; o texto bizantino e o Textus Receptus leem “demos”. “Bodas”: gr. γάμος (cf. 19:9; Mt 22:2–14). “A Sua esposa”: gr. ἡ γυνὴ αὐτοῦ (cf. 21:2, 9; Is 54:5–6; Os 2:19–20).
+[^7]: **19:7** “Alegremo-nos, e exultemos”: cf. Sl 118:24 [LXX 117:24]; Mt 5:12. “E Lhe daremos”: gr. δώσομεν, futuro; o texto bizantino e o Textus Receptus leem “demos”. “Bodas”: gr. γάμος (cf. 19:9; Mt 22:2–14). “A Sua esposa”: gr. ἡ γυνὴ αὐτοῦ (cf. 21:2, 9; Is 54:5–6; Os 2:19–20 (heb. 2:21–22)).
 
 [^8]: **19:8** “Envolver-se”: gr. περιβάλλω. “Linho fino”: gr. βύσσινος (cf. 18:12, 16; 19:14; também 15:6, gr. λίνον). “Atos de justiça”: gr. δικαιώματα (cf. 15:4). Cf. Is 61:10.
 
@@ -70,7 +70,7 @@
 
 [^10]: **19:10** “Para adorá-lo”: cf. 22:8–9. “Olha, não faças isso”: gr. ὅρα μή, lit. “vê, não”. “Conservo”: gr. σύνδουλος (cf. 6:11; 22:9). “O Testemunho de Jesus”: cf. 1:2, 9; 12:17. “O Espírito da profecia”: gr. τὸ πνεῦμα τῆς προφητείας; a maiúscula segue o uso do livro, em que “o Espírito” absoluto é o Espírito Santo (cf. 2:7; 14:13; 22:17; 1Pe 1:10–11; 2Pe 1:21); leitura alternativa: “o espírito”, isto é, a essência da profecia.
 
-[^11]: **19:11** “Aquele”: a maiúscula segue a identificação do próprio texto: “Fiel e Verdadeiro” (3:14), “a Palavra de Deus” (19:13), “Rei dos reis e Senhor dos senhores” (19:16; cf. 17:14). “É chamado”: gr. καλούμενος, particípio. “O céu aberto”: cf. 4:1; Ez 1:1. “Cavalo branco”: cf. 6:2. “Fiel e Verdadeiro”: cf. 1:5; 3:7, 14. “Com justiça julga”: cf. Sl 96:13; Is 11:4.
+[^11]: **19:11** “Aquele”: a maiúscula segue a identificação do próprio texto: “Fiel e Verdadeiro” (3:14), “a Palavra de Deus” (19:13), “Rei dos reis e Senhor dos senhores” (19:16; cf. 17:14). “É chamado”: gr. καλούμενος, particípio. “O céu aberto”: cf. 4:1; Ez 1:1. “Cavalo branco”: cf. 6:2. “Fiel e Verdadeiro”: cf. 1:5; 3:7, 14. “Com justiça julga”: cf. Sl 96:13 [LXX 95:13]; Is 11:4.
 
 [^12]: **19:12** “Olhos… chama de fogo”: cf. 1:14; 2:18; Dn 10:6; o Textus Receptus acrescenta “como”. “Diademas”: gr. διαδήματα (cf. 12:3; 13:1). “Um nome… que ninguém conhece”: cf. 2:17; 3:12. Variante: o texto bizantino acrescenta “nomes escritos, e”.
 
@@ -78,7 +78,7 @@
 
 [^14]: **19:14** “Exércitos”: gr. στρατεύματα. “Linho fino, branco e puro”: cf. 19:8.
 
-[^15]: **19:15** “Espada afiada”: gr. ῥομφαία ὀξεῖα (cf. 1:16; 2:12, 16; Is 11:4; 49:2); o texto bizantino acrescenta “de dois gumes”; o Textus Receptus lê “do furor e da ira”. “Ferir”: gr. πατάσσω (cf. 11:6). “Apascentará com vara de ferro”: cf. 2:27; 12:5; Sl 2:9. “Pisa o lagar”: cf. 14:19–20; Is 63:3.
+[^15]: **19:15** “Espada afiada”: gr. ῥομφαία ὀξεῖα (cf. 1:16; 2:12, 16; Is 11:4; 49:2); o texto bizantino acrescenta “de dois gumes”. “Ferir”: gr. πατάσσω (cf. 11:6). “Apascentará com vara de ferro”: cf. 2:27; 12:5; Sl 2:9. “Pisa o lagar”: cf. 14:19–20; Is 63:3; Jl 3:13 (heb. 4:13); o Textus Receptus lê “do furor e da ira”.
 
 [^16]: **19:16** “Coxa”: gr. μηρός. “Rei dos reis e Senhor dos senhores”: cf. 17:14; Dt 10:17; 1Tm 6:15.
 

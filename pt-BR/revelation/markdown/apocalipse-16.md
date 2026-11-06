@@ -26,9 +26,9 @@
 
 [^3]: **16:3** “Tornou-se sangue”: lit. “houve sangue”. “Sangue como de morto”: cf. 8:8–9; Êx 7:17–21. “Toda alma vivente”: gr. πᾶσα ψυχὴ ζωῆς, lit. “toda alma de vida” (cf. Gn 1:21); o texto bizantino e o Textus Receptus leem ψυχὴ ζῶσα.
 
-[^4]: **16:4** “Tornaram-se sangue”: lit. “houve sangue” (cf. Êx 7:19–21; Sl 78:44).
+[^4]: **16:4** “Tornaram-se sangue”: lit. “houve sangue” (cf. Êx 7:19–21; Sl 78:44 [LXX 77:44]).
 
-[^5]: **16:5** “O anjo das águas”: cf. 7:1; 14:18. “Justo és Tu”: cf. 15:3; Dt 32:4; Sl 119:137. “Aquele Que É, e Aquele Que Era”: cf. 1:4, 8; 11:17. “O Santo”: gr. ὁ ὅσιος (cf. 15:4); o Textus Receptus lê “Justo és, ó Senhor, que és, e que eras, e que hás de ser”.
+[^5]: **16:5** “O anjo das águas”: cf. 7:1; 14:18. “Justo és Tu”: cf. 15:3; Dt 32:4; Sl 119:137 [LXX 118:137]. “Aquele Que É, e Aquele Que Era”: cf. 1:4, 8; 11:17. “O Santo”: gr. ὁ ὅσιος (cf. 15:4); o Textus Receptus lê “Justo és, ó Senhor, que és, e que eras, e que hás de ser”.
 
 [^6]: **16:6** “Sangue de santos e de profetas”: cf. 17:6; 18:24. “Tu lhes deste sangue a beber”: cf. Is 49:26. “São dignos”: gr. ἄξιοί εἰσιν (cf. 3:4); o Textus Receptus lê “porque são dignos”.
 
@@ -38,17 +38,17 @@
 
 [^9]: **16:9** “Calor”: gr. καῦμα (cf. 7:16). “Blasfemaram”: cf. 13:6; 16:11, 21. “Não se arrependeram”: cf. 2:21; 9:20–21. “Dar glória”: cf. 11:13; 14:7.
 
-[^10]: **16:10** “O trono da besta”: cf. 2:13; 13:2. “Ficou em trevas”: gr. ἐσκοτωμένη, particípio perfeito (cf. Êx 10:21–23; Jl 2:31).
+[^10]: **16:10** “O trono da besta”: cf. 2:13; 13:2. “Ficou em trevas”: gr. ἐσκοτωμένη, particípio perfeito (cf. Êx 10:21–23; Jl 2:31 (heb. 3:4)).
 
 [^11]: **16:11** “O Deus do céu”: cf. 11:13; Dn 2:18–19, 44. “Úlceras”: cf. 16:2.
 
-[^12]: **16:12** “O grande rio Eufrates”: cf. 9:14. “A sua água secou”: cf. Is 11:15; 44:27; Jr 50:38; 51:36. “Os reis que vêm do nascente do sol”: lit. “os reis desde o nascente do sol” (cf. 7:2; Is 41:2, 25; 46:11); o Textus Receptus lê “do nascente” no plural.
+[^12]: **16:12** “O grande rio Eufrates”: cf. 9:14. “A sua água secou”: cf. Is 11:15; 44:27; Jr 50:38 [LXX 27:38]; 51:36 [LXX 28:36]. “Os reis que vêm do nascente do sol”: lit. “os reis desde o nascente do sol” (cf. 7:2; Is 41:2, 25; 46:11); o Textus Receptus lê “do nascente” no plural.
 
-[^13]: **16:13** “O falso profeta”: gr. ψευδοπροφήτης (cf. 13:11–14; 19:20; 20:10). “Vi sair da boca”: lit. “vi da boca”. “Espíritos imundos”: gr. πνεύματα ἀκάθαρτα. “Como rãs”: gr. ὡς βάτραχοι (cf. Êx 8:2–7); o Textus Receptus lê ὅμοια βατράχοις, “semelhantes a rãs”.
+[^13]: **16:13** “O falso profeta”: gr. ψευδοπροφήτης (cf. 13:11–14; 19:20; 20:10). “Vi sair da boca”: lit. “vi da boca”. “Espíritos imundos”: gr. πνεύματα ἀκάθαρτα. “Como rãs”: gr. ὡς βάτραχοι (cf. Êx 8:2–7 (heb. 7:27–8:3)); o Textus Receptus lê ὅμοια βατράχοις, “semelhantes a rãs”.
 
-[^14]: **16:14** “Demônios”: gr. δαιμόνια (cf. 9:20). “Sinais”: gr. σημεῖα (cf. 13:13–14; 19:20). “Mundo inteiro”: gr. οἰκουμένη ὅλη (cf. 3:10; 12:9). “Ajuntá-los para a guerra”: cf. 19:19; 20:8. “O grande dia de Deus”: cf. 6:17; Jl 2:11, 31; Sf 1:14. Variantes: o Textus Receptus lê “os reis da terra e do mundo inteiro”; o texto bizantino e o Textus Receptus leem “daquele grande dia”. O travessão marca o parêntese do v. 15, como no grego.
+[^14]: **16:14** “Demônios”: gr. δαιμόνια (cf. 9:20). “Sinais”: gr. σημεῖα (cf. 13:13–14; 19:20). “Mundo inteiro”: gr. οἰκουμένη ὅλη (cf. 3:10; 12:9). “Ajuntá-los para a guerra”: cf. 19:19; 20:8. “O grande dia de Deus”: cf. 6:17; Jl 2:11; 2:31 (heb. 3:4); Sf 1:14. Variantes: o Textus Receptus lê “os reis da terra e do mundo inteiro”; o texto bizantino e o Textus Receptus leem “daquele grande dia”. O travessão marca o parêntese do v. 15, como no grego.
 
-[^15]: **16:15** “Eis que venho como ladrão”: cf. 3:3; Mt 24:43; 1Ts 5:2; 2Pe 3:10; Lc 12:39). “Bem-aventurado”: cf. 1:3; 14:13. “Vigia”: gr. γρηγορέω (cf. 3:2–3). “Vestes”: gr. ἱμάτια (cf. 3:4–5, 18). “Vergonha”: gr. ἀσχημοσύνη, lit. “indecência”, a nudez exposta (cf. 3:18, onde “vergonha” traduz αἰσχύνη).
+[^15]: **16:15** “Eis que venho como ladrão”: cf. 3:3; Mt 24:43; Lc 12:39; 1Ts 5:2; 2Pe 3:10. “Bem-aventurado”: cf. 1:3; 14:13. “Vigia”: gr. γρηγορέω (cf. 3:2–3). “Vestes”: gr. ἱμάτια (cf. 3:4–5, 18). “Vergonha”: gr. ἀσχημοσύνη, lit. “indecência”, a nudez exposta (cf. 3:18, onde “vergonha” traduz αἰσχύνη).
 
 [^16]: **16:16** “Os ajuntaram”: gr. συνήγαγεν, singular com sujeito neutro plural, os espíritos (16:13–14); leitura alternativa: “E ele os ajuntou”. “Armagedom”: gr. Ἁρμαγεδών, do hebraico, geralmente entendido como “monte de Megido” (cf. Jz 5:19; 2Rs 23:29; Zc 12:11); leitura alternativa: “monte da assembleia” (cf. Is 14:13); o Textus Receptus lê Ἁρμαγεδδών.
 
@@ -56,7 +56,7 @@
 
 [^18]: **16:18** “Relâmpagos, e vozes, e trovões”: cf. 4:5; 8:5; 11:19. “Como nunca houve”: cf. Dn 12:1; Mt 24:21. “Desde que há homens”: lit. “desde que homens vieram a ser”; alguns manuscritos leem “homem”, singular. “Um terremoto tão grande assim”: gr. τηλικοῦτος σεισμὸς οὕτω μέγας, lit. “tamanho terremoto, assim grande”.
 
-[^19]: **16:19** “A grande cidade”: cf. 11:8; 17:18; 18:10. “Se dividiu em três partes”: lit. “veio a ser em três partes”. “Foi lembrada diante de Deus”: gr. ἐμνήσθη ἐνώπιον τοῦ θεοῦ (cf. 18:5). “O cálice do vinho do furor da Sua ira”: cf. 14:8, 10; 18:3; Jr 25:15.
+[^19]: **16:19** “A grande cidade”: cf. 11:8; 17:18; 18:10. “Se dividiu em três partes”: lit. “veio a ser em três partes”. “Foi lembrada diante de Deus”: gr. ἐμνήσθη ἐνώπιον τοῦ θεοῦ (cf. 18:5). “O cálice do vinho do furor da Sua ira”: cf. 14:8, 10; 18:3; Jr 25:15 [LXX 32:1].
 
 [^20]: **16:20** Cf. 6:14; 20:11.
 

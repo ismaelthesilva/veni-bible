@@ -37,17 +37,17 @@
 
 ---
 
-[^1]: **7:1** “Depois disto”: gr. μετὰ τοῦτο (singular); em 7:9, μετὰ ταῦτα, “depois destas coisas” (cf. 4:1). Variante: o Textus Receptus lê “E depois destas coisas”. “Segurando”: gr. κρατέω (cf. 2:1). “Quatro cantos… quatro ventos”: cf. Is 11:12; Jr 49:36; Dn 7:2; Zc 6:5.
+[^1]: **7:1** “Depois disto”: gr. μετὰ τοῦτο (singular); em 7:9, μετὰ ταῦτα, “depois destas coisas” (cf. 4:1). Variante: o texto bizantino lê “E depois disto”; o Textus Receptus, “E depois destas coisas”. “Segurando”: gr. κρατέω (cf. 2:1). “Quatro cantos… quatro ventos”: cf. Is 11:12; Jr 49:36; Dn 7:2; Zc 6:5.
 
 [^2]: **7:2** “Do nascente do sol”: lit. “do levantar do sol”. “O selo do Deus vivo”: gr. σφραγῖδα θεοῦ ζῶντος, lit. “um selo de Deus vivo”. “Causar dano”: gr. ἀδικέω (cf. 6:6).
 
-[^3]: **7:3** “Selado”: gr. σφραγίζω (cf. 5:1). “Testas”: cf. 9:4; 14:1; 22:4; Ez 9:4; Êx 28:36–38.
+[^3]: **7:3** “Selado”: gr. σφραγίζω (cf. 10:4; 22:10). “Testas”: cf. 9:4; 14:1; 22:4; Ez 9:4; Êx 28:36–38.
 
 [^5]: **7:5** A lista começa por Judá (cf. 5:5), inclui Levi e José e não traz Dã nem Efraim (cf. Gn 49; Ez 48). Variante: o Textus Receptus repete “selados” depois de cada tribo.
 
 [^9]: **7:9** “De toda nação, e de tribos, e de povos, e de línguas”: a ordem e o número do grego, com uma só preposição (cf. 5:9). “Envoltos”: gr. περιβάλλω (cf. 3:5). “Vestes”: gr. στολαί (cf. 6:11). “Palmas”: gr. φοίνικες (cf. Lv 23:40; Jo 12:13).
 
-[^10]: **7:10** “A salvação ao nosso Deus”: o grego não tem verbo (cf. 5:13; 19:1).
+[^10]: **7:10** “A salvação ao nosso Deus”: o grego não tem verbo (cf. 5:13; 19:1). Variante: o Textus Receptus lê “clamando”.
 
 [^11]: **7:11** “Estavam de pé”: gr. ἵστημι (cf. 5:6; 6:17). “Se prostraram”: gr. πίπτω (cf. 4:10; 5:14).
 
@@ -55,7 +55,7 @@
 
 [^13]: **7:13** “Tomou a palavra”: gr. ἀπεκρίθη, lit. “respondeu”, sem pergunta anterior.
 
-[^14]: **7:14** “Disse”: gr. εἴρηκα, perfeito. “Meu senhor”: dirigido ao ancião; o Textus Receptus omite “meu”. “Vieram”: gr. οἱ ἐρχόμενοι, particípio presente, lit. “os que vêm”; traduzido no passado, em harmonia com “lavaram… branquearam”. “A grande tribulação”: gr. θλῖψις (cf. 1:9; 2:22; Dn 12:1; Mt 24:21). “Lavaram… branquearam”: cf. 22:14; Gn 49:11; Is 1:18; Dn 11:35; 12:10.
+[^14]: **7:14** “Disse”: gr. εἴρηκα, perfeito. “Meu senhor”: dirigido ao ancião; o Textus Receptus omite “meu”. “Vieram”: gr. οἱ ἐρχόμενοι, particípio presente, lit. “os que vêm”; traduzido no passado, em harmonia com “lavaram… branquearam”. “A grande tribulação”: gr. θλῖψις (cf. 1:9; 2:22; Dn 12:1; Mt 24:21). “Lavaram… branquearam”: cf. 22:14; Gn 49:11; Is 1:18; Dn 11:35; 12:10 (heb.).
 
 [^15]: **7:15** “Servem”: gr. λατρεύω, serviço de culto. “Santuário”: gr. ναός (cf. 3:12; 11:19). “Estenderá o Seu tabernáculo”: gr. σκηνόω, “habitar em tenda” (cf. 13:6; 21:3; Jo 1:14; Ez 37:27).
 

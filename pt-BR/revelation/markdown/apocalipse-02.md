@@ -16,7 +16,7 @@
 &emsp;Isto diz o Primeiro e o Último,<br>
 &emsp;que esteve morto e reviveu:[^8]
 
-<sup>9</sup>Conheço a tua tribulação e a tua pobreza (mas tu és rico), e a blasfêmia dos que se dizem judeus, e não são, mas são sinagoga de Satanás.[^9] <sup>10</sup>Não temas nada do que estás para sofrer. Eis que o Diabo está para lançar alguns de vós na prisão, para que sejais provados, e tereis tribulação de dez dias. Sê fiel até a morte, e te darei a coroa da vida.[^10]
+<sup>9</sup>Conheço a tua tribulação e a tua pobreza (mas tu és rico), e a blasfêmia dos que se dizem judeus, e não são, mas são sinagoga de Satanás.[^9] <sup>10</sup>Não temas nada do que estás para sofrer. Eis que o diabo está para lançar alguns de vós na prisão, para que sejais provados, e tereis tribulação de dez dias. Sê fiel até a morte, e te darei a coroa da vida.[^10]
 
 <sup>11</sup>O que tem ouvido, ouça o que o Espírito diz às igrejas. O que vence de modo algum sofrerá dano da segunda morte.[^11]
 
@@ -25,7 +25,7 @@
 &emsp;<sup>12</sup>E ao anjo da igreja em Pérgamo escreve:<br>
 &emsp;Isto diz Aquele que tem a espada afiada de dois gumes:
 
-<sup>13</sup>Sei onde habitas: onde está o trono de Satanás. E reténs o Meu nome, e não negaste a Minha fé, nem mesmo nos dias de Antipas, a Minha testemunha, o Meu fiel, que foi morto entre vós, onde Satanás habita.[^13] <sup>14</sup>Mas tenho contra ti algumas coisas: tens aí os que retêm o ensino de Balaão, que ensinava Balaque a lançar uma pedra de tropeço diante dos filhos de Israel, para que comessem coisas sacrificadas aos ídolos e se prostituíssem.[^14] <sup>15</sup>Assim também tu tens os que, do mesmo modo, retêm o ensino dos nicolaítas. <sup>16</sup>Arrepende-te, portanto; e, se não, venho a ti em breve e farei guerra contra eles com a espada da Minha boca.[^16]
+<sup>13</sup>Sei onde habitas: onde está o trono de Satanás. E reténs o Meu nome, e não negaste a Minha fé, nem mesmo nos dias de Antipas, a Minha testemunha, o Meu fiel, que foi morto entre vós, onde Satanás habita.[^13] <sup>14</sup>Mas tenho contra ti algumas coisas: tens aí os que retêm o ensino de Balaão, que ensinava Balaque a lançar uma pedra de tropeço diante dos filhos de Israel, para que comessem coisas sacrificadas aos ídolos e se prostituíssem.[^14] <sup>15</sup>Assim também tu tens os que, do mesmo modo, retêm o ensino dos nicolaítas.[^15] <sup>16</sup>Arrepende-te, portanto; e, se não, venho a ti em breve e farei guerra contra eles com a espada da Minha boca.[^16]
 
 <sup>17</sup>O que tem ouvido, ouça o que o Espírito diz às igrejas. Ao que vence, dar-lhe-ei do maná escondido, e dar-lhe-ei uma pedrinha branca, e na pedrinha um nome novo escrito, que ninguém conhece senão aquele que o recebe.[^17]
 
@@ -44,19 +44,19 @@
 
 ---
 
-[^1]: **2:1** Gr. ἄγγελος, ou “mensageiro” (cf. 1:20). “Isto diz”: gr. τάδε λέγει, fórmula profética da Septuaginta, repetida nas sete cartas. “Segura”: gr. κρατῶν, “segurar com firmeza”.
+[^1]: **2:1** “Anjo”: gr. ἄγγελος, ou “mensageiro” (cf. 1:20). “Isto diz”: gr. τάδε λέγει, fórmula profética da Septuaginta, repetida nas sete cartas. “Segura”: gr. κρατῶν, de κρατέω, “segurar com firmeza”.
 
-[^2]: **2:2** Gr. κόπος, “trabalho que cansa”; o verbo correspondente aparece em 2:3 (“não te cansaste”).
+[^2]: **2:2** “Labor”: gr. κόπος, “trabalho que cansa”; o verbo correspondente aparece em 2:3 (“não te cansaste”).
 
-[^5]: **2:5** Gr. κινήσω, “mover, tirar do lugar”; o candelabro é a igreja (1:20). “Caíste”: perfeito (πέπτωκας), estado de queda que permanece.
+[^5]: **2:5** Gr. κινήσω, “mover, tirar do lugar”; o candelabro é a igreja (1:20). “Caíste”: perfeito (πέπτωκας), estado de queda que permanece. Variante: o texto bizantino e o Textus Receptus acrescentam “em breve” após “venho a ti”.
 
 [^6]: **2:6** Os nicolaítas só são mencionados no Apocalipse (cf. 2:15).
 
-[^7]: **2:7** “Ao que vence” (νικῶντι): νικάω = “vencer” nas sete cartas. Gr. ξύλον, “madeira, árvore”, o termo de Gn 2:9 (Septuaginta), usado no Novo Testamento também para a cruz (At 5:30); cf. 22:2, 22:14.
+[^7]: **2:7** “Ao que vence” (νικῶντι): νικάω = “vencer” nas sete cartas. Gr. ξύλον, “madeira, árvore”, o termo de Gn 2:9 (Septuaginta), usado no Novo Testamento também para a cruz (At 5:30); cf. 22:2, 22:14. Variante: o texto bizantino lê “o paraíso do Meu Deus”; o Textus Receptus, “no meio do paraíso de Deus”.
 
 [^8]: **2:8** “Esteve morto”: gr. ἐγένετο νεκρός, como em 1:18 (“Estive morto”). “Reviveu”: gr. ἔζησεν, o mesmo verbo de 20:4–5.
 
-[^9]: **2:9** Ou “calúnia” (gr. βλασφημία). A expressão não se refere ao povo judeu como tal, mas aos que, segundo o próprio texto, “se dizem judeus, e não são” (cf. 3:9; Rm 2:28–29).
+[^9]: **2:9** Ou “calúnia” (gr. βλασφημία). A expressão não se refere ao povo judeu como tal, mas aos que, segundo o próprio texto, “se dizem judeus, e não são” (cf. 3:9; Rm 2:28–29). Variante: o texto bizantino e o Textus Receptus começam com “Conheço as tuas obras, e a tua tribulação”.
 
 [^10]: **2:10** “Provados”: gr. πειρασθῆτε, o mesmo verbo de 2:2 (“puseste à prova”). “Dez dias”: cf. Dn 1:12, 14. “Coroa”: gr. στέφανος, a coroa do vencedor, distinta de διάδημα, “diadema” (12:3; 13:1; 19:12).
 
@@ -64,7 +64,9 @@
 
 [^13]: **2:13** “Reténs”: gr. κρατέω, o mesmo verbo de 2:1 (“segura”), 2:14–15 e 2:25. “A Minha fé”: ou “a fé em Mim” (cf. 14:12). “Testemunha”: gr. μάρτυς, a mesma palavra de 1:5, que mais tarde deu “mártir”. “Habitas… habita”: o mesmo verbo (κατοικέω). Variante: o texto bizantino e o Textus Receptus começam com “Conheço as tuas obras e onde habitas”.
 
-[^14]: **2:14** Cf. Nm 25:1–3; 31:16. “Ensino… ensinava”: gr. διδαχή / ἐδίδασκεν. “Pedra de tropeço”: gr. σκάνδαλον. “Se prostituíssem”: gr. πορνεύω; em Nm 25:1 o hebraico usa זָנָה, “prostituir-se”, ligado à idolatria; no Apocalipse o termo une infidelidade sexual e espiritual (cf. 17:1–2).
+[^14]: **2:14** Cf. Nm 25:1–3; 31:16. “Ensino… ensinava”: gr. διδαχή / ἐδίδασκεν. “Pedra de tropeço”: gr. σκάνδαλον. “Se prostituíssem”: gr. πορνεύω; em Nm 25:1 o hebraico usa זָנָה‎, “prostituir-se”, ligado à idolatria; no Apocalipse o termo une infidelidade sexual e espiritual (cf. 17:1–2).
+
+[^15]: **2:15** Variante: o Textus Receptus lê “o que Eu odeio” em lugar de “do mesmo modo”.
 
 [^16]: **2:16** “Em breve”: gr. ταχύ (cf. 3:11; 22:7, 12, 20). “Farei guerra”: gr. πολεμέω (cf. 12:7; 17:14; 19:11).
 
@@ -74,17 +76,17 @@
 
 [^19]: **2:19** Ou: “Conheço as tuas obras, isto é, o amor, e a fé…”.
 
-[^20]: **2:20** “Toleras”: gr. ἀφεῖς, o mesmo verbo de 2:4 (“deixaste”). Variante: alguns manuscritos leem “a tua mulher Jezabel”. “Engana”: gr. πλανάω (cf. 12:9; 13:14; 20:3, 8, 10). Cf. 1Rs 16:31.
+[^20]: **2:20** “Toleras”: gr. ἀφεῖς, o mesmo verbo de 2:4 (“deixaste”). “Mulher”: gr. γυνή, também “esposa”; variante: o texto bizantino lê “a tua mulher Jezabel”, e o Textus Receptus, “tenho contra ti algumas coisas”. “Engana”: gr. πλανάω (cf. 12:9; 13:14; 20:3, 8, 10). Cf. 1Rs 16:31.
 
 [^22]: **2:22** “Leito”: gr. κλίνη, também leito de enfermidade. “Grande tribulação”: cf. 7:14. Variante: o Textus Receptus lê “das obras deles”.
 
-[^23]: **2:23** “Com peste”: gr. ἐν θανάτῳ, lit. “com morte”, expressão hebraica; na Septuaginta θάνατος traduz o hebraico דֶּבֶר‎, “peste” (cf. 6:8; 18:8; Ez 5:12; 33:27). “O íntimo”: gr. νεφροί, lit. “rins”, no pensamento hebraico a sede das emoções e da consciência (Jr 17:10, heb. כְּלָיוֹת).
+[^23]: **2:23** “Com peste”: gr. ἐν θανάτῳ, lit. “com morte”; na Septuaginta θάνατος traduz frequentemente o hebraico דֶּבֶר‎, “peste” (cf. 6:8; 18:8; Ez 5:12; 33:27). “O íntimo”: gr. νεφροί, lit. “rins”, no pensamento hebraico a sede das emoções e da consciência (Jr 17:10, heb. כְּלָיוֹת).
 
 [^24]: **2:24** “Remanescente”: gr. λοιποί, “os que restam”; a mesma palavra de 12:17. Onde designa outros grupos (9:20; 19:21; 20:5), é traduzida por “restantes”. “Fardo”: gr. βάρος, cf. At 15:28–29. “Profundezas”: cf. 1Co 2:10.
 
 [^26]: **2:26** “Guarda”: gr. τηρέω (cf. 1:3). “Nações”: gr. ἔθνη.
 
-[^27]: **2:27** Cf. Sl 2:8–9. “Apascentará”: gr. ποιμαίνω, “pastorear”, como na Septuaginta de Sl 2:9; o hebraico lê “quebrarás” (תְּרֹעֵם). Cf. 7:17; 12:5; 19:15.
+[^27]: **2:27** Cf. Sl 2:8–9. “Apascentará”: gr. ποιμαίνω, “pastorear”, como na Septuaginta de Sl 2:9; o hebraico lê “quebrarás” (תְּרֹעֵם‎). Cf. 7:17; 12:5; 19:15.
 
 [^28]: **2:28** Cf. 22:16.
 

@@ -35,19 +35,19 @@
 
 [^1]: **18:1** “Outro anjo”: cf. 10:1; 14:6, 8. “A terra foi iluminada pela sua glória”: cf. Ez 43:2.
 
-[^2]: **18:2** “Caiu, caiu Babilônia, a grande”: cf. 14:8; Is 21:9; Jr 51:8. “Morada de demônios… prisão”: gr. φυλακή, também “guarida, covil” (cf. Is 13:21–22; 34:11–15; Jr 50:39; 51:37). “Fera”: gr. θηρίον, aqui o animal selvagem (cf. 6:8). “Odiada”: gr. μεμισημένου, particípio. “E prisão de toda fera imunda”: o texto bizantino e o Textus Receptus omitem. Variante: o texto bizantino traz um só “caiu”.
+[^2]: **18:2** “Caiu, caiu Babilônia, a grande”: cf. 14:8; Is 21:9; Jr 51:8 [LXX 28:8]. “Morada de demônios… prisão”: gr. φυλακή, também “guarida, covil” (cf. Is 13:21–22; 34:11–15; Jr 50:39 [LXX 27:39]; 51:37 [LXX 28:37]). “Voz forte”: gr. ἰσχυρᾷ φωνῇ; o Textus Receptus lê “fortemente, com grande voz”. “Fera”: gr. θηρίον, aqui o animal selvagem (cf. 6:8). “Odiada”: gr. μεμισημένου, particípio. “E prisão de toda fera imunda e odiada”: o texto bizantino e o Textus Receptus omitem “prisão de toda fera imunda”, lendo “toda ave imunda e odiada”. Variante: o texto bizantino traz um só “caiu”.
 
-[^3]: **18:3** “Beberam”: gr. πέπωκαν, conforme a Vulgata latina, alguns manuscritos e o Textus Receptus (cf. 14:8; 17:2); o SBLGNT segue os códices Sinaítico, Alexandrino e de Efrém e o texto bizantino, que leem πέπτωκαν, “caíram”. “Mercadores”: gr. ἔμποροι (cf. Ez 27:12–36). “Luxo”: gr. στρῆνος, “luxúria, opulência sensual”.
+[^3]: **18:3** “Beberam”: gr. πέπωκαν (o Textus Receptus πέπωκε), conforme a Vulgata latina, alguns manuscritos e o Textus Receptus (cf. 14:8; 17:2); o SBLGNT segue os códices Sinaítico, Alexandrino e de Efrém, que leem πέπτωκαν, e o texto bizantino, que lê πεπτώκασιν, ambos “caíram”. “Mercadores”: gr. ἔμποροι (cf. Ez 27:12–36). “Luxo”: gr. στρῆνος, “luxúria, opulência sensual”.
 
-[^4]: **18:4** “Sai dela, povo Meu… participes… recebas”: no grego, todos os verbos estão no plural (ἐξέλθατε… συγκοινωνήσητε… λάβητε); o singular concorda com “povo”. O Códice de Efrém e o texto bizantino leem ἔξελθε, singular (cf. Is 48:20; 52:11; Jr 50:8; 51:6, 45; 2Co 6:17).
+[^4]: **18:4** “Sai dela, povo Meu… participes… recebas”: no grego, todos os verbos estão no plural (ἐξέλθατε… συγκοινωνήσητε… λάβητε); o singular concorda com “povo”. O Códice de Efrém e o texto bizantino leem ἔξελθε, singular (cf. Is 48:20; 52:11; Jr 50:8 [LXX 27:8]; 51:6 [LXX 28:6]; 51:45 (ausente da LXX); 2Co 6:17).
 
-[^5]: **18:5** “Se acumularam”: gr. ἐκολλήθησαν, lit. “se colaram, se juntaram” (cf. Gn 18:20; Jr 51:9). “Se lembrou”: cf. 16:19.
+[^5]: **18:5** “Se acumularam”: gr. ἐκολλήθησαν, lit. “se colaram, se juntaram” (cf. Gn 18:20; Jr 51:9 [LXX 28:9]). “Se lembrou”: cf. 16:19.
 
-[^6]: **18:6** “Retribuí-lhe como também ela retribuiu”: cf. Sl 137:8; Jr 50:15, 29. “Dai-lhe o dobro”: gr. διπλώσατε τὰ διπλᾶ, lit. “dobrai o dobro” (cf. Is 40:2; Jr 16:18); o texto bizantino e o Textus Receptus acrescentam “a ela”. “Misturou… misturai”: gr. κεράννυμι (cf. 14:10, “preparado”).
+[^6]: **18:6** “Retribuí-lhe como também ela retribuiu”: cf. Sl 137:8 [LXX 136:8]; Jr 50:15, 29 [LXX 27:15, 29]. “Dai-lhe o dobro”: gr. διπλώσατε τὰ διπλᾶ, lit. “dobrai o dobro” (cf. Is 40:2; Jr 16:18); o texto bizantino e o Textus Receptus leem “dobrai-lhe o dobro”. “Misturou… misturai”: gr. κεράννυμι (cf. 14:10, “preparado”). Variante: o Textus Receptus lê “como ela vos retribuiu”.
 
-[^7]: **18:7** “Viveu no luxo”: gr. στρηνιάω (cf. 18:3, 9). “Luto”: gr. πένθος. “Estou sentada como rainha, e viúva não sou”: cf. Is 47:7–9; Sf 2:15.
+[^7]: **18:7** “Viveu no luxo”: gr. στρηνιάω (cf. 18:3, 9). “Luto”: gr. πένθος. “Estou sentada como rainha, e viúva não sou”: cf. Is 47:7–9; Sf 2:15 [LXX 3:1].
 
-[^8]: **18:8** “Peste”: gr. θάνατος, lit. “morte” (cf. 6:8). “Num só dia”: cf. Is 47:9. “Será queimada com fogo”: cf. 17:16. “Forte é o Senhor Deus”: cf. Jr 50:34.
+[^8]: **18:8** “Peste”: gr. θάνατος, lit. “morte” (cf. 6:8). “Num só dia”: cf. Is 47:9. “Será queimada com fogo”: cf. 17:16. “Forte é o Senhor Deus”: cf. Jr 50:34 [LXX 27:34].
 
 [^9]: **18:9** “Se lamentarão”: gr. κόπτομαι, lit. “bater no peito” (cf. 1:7; Ez 26:16–17; 27:30–35). “Incêndio”: gr. πύρωσις (cf. 18:18).
 
@@ -73,7 +73,7 @@
 
 [^20]: **18:20** “Regozija-te”: gr. εὐφραίνου (cf. 12:12). “Santos, e apóstolos, e profetas”: o Textus Receptus lê “santos apóstolos”. “Deus julgou a vossa causa contra ela”: gr. ἔκρινεν… τὸ κρίμα ὑμῶν ἐξ αὐτῆς, lit. “julgou o vosso julgamento dela” (cf. 6:10; 19:2; Dt 32:43).
 
-[^21]: **18:21** “Anjo forte”: cf. 5:2; 10:1. “Como uma grande mó”: gr. ὡς μύλινον μέγαν. “Com ímpeto”: gr. ὁρμήματι. Cf. Jr 51:63–64.
+[^21]: **18:21** “Anjo forte”: cf. 5:2; 10:1. “Como uma grande mó”: gr. ὡς μύλινον μέγαν. “Com ímpeto”: gr. ὁρμήματι. Cf. Jr 51:63–64 [LXX 28:63–64].
 
 [^22]: **18:22** “Harpistas”: gr. κιθαρῳδοί (cf. 14:2). “Artífice algum de arte alguma”: gr. πᾶς τεχνίτης πάσης τέχνης οὐ μή, lit. “todo artífice de toda arte de modo algum”. Cf. Is 24:8; Jr 25:10; Ez 26:13.
 

@@ -21,15 +21,15 @@
 
 ---
 
-[^1]: **4:1** “Depois destas coisas”: gr. μετὰ ταῦτα, como em 1:19; “as coisas que devem acontecer” retoma 1:1. “Como de trombeta”: cf. 1:10; Êx 19:16–20.
+[^1]: **4:1** “Depois destas coisas”: gr. μετὰ ταῦτα, como em 1:19; “as coisas que devem acontecer” retoma 1:1. O SBLGNT pontua o segundo “depois destas” como início de 4:2 (“Depois destas coisas, imediatamente estive no Espírito”); segue-se aqui a pontuação do texto bizantino e do Textus Receptus (sem o seu “e” no início de 4:2). “Como de trombeta”: cf. 1:10; Êx 19:16–20.
 
 [^2]: **4:2** “Estive”: gr. ἐγενόμην, como em 1:10. “Alguém sentado”: cf. 1Rs 22:19; Is 6:1; Ez 1:26; Dn 7:9.
 
-[^3]: **4:3** Gr. ἴασπις e σάρδιον, pedras de identificação incerta (cf. 21:11, 19–20). “Arco-íris”: cf. Gn 9:13; Ez 1:28.
+[^3]: **4:3** “Jaspe… sárdio”: gr. ἴασπις e σάρδιον, pedras de identificação incerta (cf. 21:11, 19–20). “Arco-íris”: cf. Gn 9:13; Ez 1:28. Variante: o texto bizantino omite “e Aquele que estava sentado”.
 
 [^4]: **4:4** “Anciãos”: gr. πρεσβύτεροι. “Envoltos”: gr. περιβάλλω, lit. “lançar ao redor”, como em 3:5. “Coroas”: gr. στέφανος (cf. 2:10).
 
-[^5]: **4:5** “Vozes”: gr. φωναί, também “estrondos” (cf. Êx 19:16, heb. קֹלֹת‎; Ap 8:5; 11:19; 16:18). “Tochas”: gr. λαμπάδες (cf. 8:10; Ez 1:13; Zc 4:2). “Sete Espíritos”: cf. 1:4.
+[^5]: **4:5** “Vozes”: gr. φωναί, também “estrondos” (cf. Êx 19:16, heb. קֹלֹת‎; Ap 8:5; 11:19; 16:18). “Tochas”: gr. λαμπάδες (cf. 8:10; Ez 1:13; cf. as sete lâmpadas de Zc 4:2). “Sete Espíritos”: cf. 1:4.
 
 [^6]: **4:6** “Mar de vidro”: cf. 15:2; Ez 1:22. “Seres viventes”: gr. ζῷα, lit. “viventes”; cf. Ez 1:5, heb. חַיּוֹת‎.
 
@@ -37,10 +37,10 @@
 
 [^8]: **4:8** Cf. Is 6:2–3. “Aquele Que Era, e Aquele Que É, e Aquele Que Vem”: a fórmula de 1:4, 8, aqui com “Era” em primeiro lugar. “Não têm descanso, dia e noite”: a mesma expressão de 14:11.
 
-[^9]: **4:9** “Sempre que… derem”: gr. ὅταν com futuro, ação que se repete. “Aquele que vive pelos séculos dos séculos”: cf. 1:18; 10:6; 15:7; Dn 4:34 (heb. 4:31); 12:7.
+[^9]: **4:9** “Sempre que… derem”: gr. ὅταν com futuro, ação que se repete. “Aquele que vive pelos séculos dos séculos”: cf. 1:18; 10:6; 15:7; Dn 4:34 (aram. 4:31); 12:7.
 
 [^10]: **4:10** “Se prostrarão”: gr. πίπτω, lit. “cair”; diante de Deus, prostrar-se em adoração (cf. 1:17). “Adorarão”: gr. προσκυνέω, “adorar” porque o objeto é Deus (contraste com 3:9, “curvar-se”). “Lançarão”: gr. βάλλω.
 
-[^11]: **4:11** “Criaste”: gr. κτίζω (cf. “criação”, 3:14). “Por causa da Tua vontade”: gr. διὰ τὸ θέλημά σου. Variante: o Textus Receptus lê “Digno és, Senhor” (sem “e Deus nosso”) e “são e foram criadas”.
+[^11]: **4:11** “Criaste”: gr. κτίζω (cf. “criação”, 3:14). “Por causa da Tua vontade”: gr. διὰ τὸ θέλημά σου. Variante: o Textus Receptus lê “Digno és, Senhor” (sem “e Deus nosso”) e “são e foram criadas”; o texto bizantino acrescenta “o Santo” após “Senhor e Deus nosso”.
 
 [← Apocalipse 3](apocalipse-03.md) · [Contents](README.md) · [Apocalipse 5 →](apocalipse-05.md)

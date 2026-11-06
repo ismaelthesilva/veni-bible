@@ -18,15 +18,15 @@
 
 ---
 
-[^1]: **17:1** “Um dos sete anjos que tinham as sete taças”: cf. 15:7; 21:9. “Vem”: gr. δεῦρο. “Julgamento”: gr. κρίμα (cf. 18:20; 20:4). “Prostituta”: gr. πόρνη (cf. 17:15–16; 19:2). “Sentada sobre muitas águas”: cf. 17:15; Jr 51:13.
+[^1]: **17:1** “Um dos sete anjos que tinham as sete taças”: cf. 15:7; 21:9. “Vem”: gr. δεῦρο. “Julgamento”: gr. κρίμα (cf. 18:20; 20:4). “Prostituta”: gr. πόρνη (cf. 17:15–16; 19:2). “Sentada sobre muitas águas”: cf. 17:15; Jr 51:13 [LXX 28:13].
 
-[^2]: **17:2** “Se prostituíram”: gr. πορνεύω (cf. 2:14, 20; 18:3, 9). “Se embriagaram com o vinho da sua prostituição”: cf. 14:8; 18:3; Jr 51:7.
+[^2]: **17:2** “Se prostituíram”: gr. πορνεύω (cf. 2:14, 20; 18:3, 9). “Se embriagaram com o vinho da sua prostituição”: cf. 14:8; 18:3; Jr 51:7 [LXX 28:7].
 
 [^3]: **17:3** “Levou-me no Espírito”: gr. ἀπήνεγκέν με… ἐν πνεύματι (cf. 1:10; 4:2; 21:10; Ez 3:12, 14). “Escarlate”: gr. κόκκινος (cf. 17:4; 18:12, 16). “Nomes de blasfêmia”: cf. 13:1, 5–6. “Sete cabeças e dez chifres”: cf. 12:3; 13:1.
 
-[^4]: **17:4** “Envolta”: gr. περιβάλλω (cf. 3:5). “Púrpura e escarlate”: cf. 18:16; Êx 28:5–6. “Adornada com ouro”: lit. “dourada com ouro”. “Cálice de ouro”: cf. Jr 51:7. “Abominações”: gr. βδελύγματα (cf. 17:5; 21:27; Dn 9:27; 11:31). “Impurezas”: gr. τὰ ἀκάθαρτα; o Textus Receptus lê “da impureza”.
+[^4]: **17:4** “Envolta”: gr. περιβάλλω (cf. 3:5). “Púrpura e escarlate”: cf. 18:16; Êx 28:5–6. “Adornada com ouro”: lit. “dourada com ouro”. “Cálice de ouro”: cf. Jr 51:7 [LXX 28:7]. “Abominações”: gr. βδελύγματα (cf. 17:5; 21:27; Dn 9:27; 11:31). “Impurezas”: gr. τὰ ἀκάθαρτα; o Textus Receptus lê “da impureza”.
 
-[^5]: **17:5** “Sobre a sua testa um nome escrito”: cf. 13:16; 14:1, 9; 22:4. “Mistério”: gr. μυστήριον, parte do nome ou descrição dele (cf. 17:7). “Babilônia, a grande”: cf. 14:8; 16:19; 18:2; Dn 4:30. “A mãe das prostitutas”: cf. Ez 16:44–45.
+[^5]: **17:5** “Sobre a sua testa um nome escrito”: cf. 13:16; 14:1, 9; 22:4. “Mistério”: gr. μυστήριον, parte do nome ou descrição dele (cf. 17:7). “Babilônia, a grande”: cf. 14:8; 16:19; 18:2; Dn 4:30 (heb. 4:27). “A mãe das prostitutas”: cf. Ez 16:44–45.
 
 [^6]: **17:6** “Embriagada com o sangue dos santos”: cf. 6:10; 16:6; 18:24. “Testemunhas”: gr. μάρτυρες (cf. 2:13; 11:3). “Maravilhei-me com grande admiração”: gr. ἐθαύμασα… θαῦμα μέγα, lit. “maravilhei-me com grande maravilha”.
 

@@ -27,16 +27,16 @@
 
 [^2]: **15:2** “Como que um mar de vidro”: cf. 4:6. “Os vencedores da besta”: gr. τοὺς νικῶντας ἐκ τοῦ θηρίου, lit. “os que vencem da besta”. “Número do seu nome”: cf. 13:17–18; o Textus Receptus acrescenta “e da sua marca”. “De pé sobre”: gr. ἐπί com acusativo, também “junto a”. “Harpas de Deus”: cf. 5:8; 14:2.
 
-[^3]: **15:3** “O cântico de Moisés”: cf. Êx 15:1–18; Dt 31:30–32:43. “Servo de Deus”: cf. Nm 12:7; Js 1:2. “Grandes e maravilhosas são as Tuas obras”: cf. Sl 111:2; 139:14. “Justos e verdadeiros são os Teus caminhos”: cf. Dt 32:4; Sl 145:17. “Rei das nações”: gr. ὁ βασιλεὺς τῶν ἐθνῶν, conforme o Códice Alexandrino e o texto bizantino (cf. 15:4; Jr 10:7); o SBLGNT segue o papiro 47, o texto original do Códice Sinaítico e o Códice de Efrém, que leem “Rei dos séculos” (cf. 1Tm 1:17). Variante: o Textus Receptus lê “Rei dos santos”.
+[^3]: **15:3** “O cântico de Moisés”: cf. Êx 15:1–18; Dt 31:30–32:43. “Servo de Deus”: cf. Nm 12:7; Js 1:2. “Grandes e maravilhosas são as Tuas obras”: cf. Sl 111:2 [LXX 110:2]; 139:14 [LXX 138:14]. “Justos e verdadeiros são os Teus caminhos”: cf. Dt 32:4; Sl 145:17 [LXX 144:17]. “Rei das nações”: gr. ὁ βασιλεὺς τῶν ἐθνῶν, conforme o Códice Alexandrino e o texto bizantino (cf. 15:4; Jr 10:7); o SBLGNT segue o papiro 47, o texto original do Códice Sinaítico e o Códice de Efrém, que leem “Rei dos séculos” (cf. 1Tm 1:17). Variante: o Textus Receptus lê “Rei dos santos”.
 
-[^4]: **15:4** “Quem não Te temerá”: gr. οὐ μή, negação enfática, que rege também “glorificará” (cf. Jr 10:7); “Te” não está no SBLGNT; o texto bizantino e o Textus Receptus leem σε. “Santo”: gr. ὅσιος (cf. 16:5); o texto bizantino lê ἅγιος. “Todas as nações virão e adorarão”: cf. Sl 86:9; Is 2:2–3; 66:23. “Atos de justiça”: gr. δικαιώματα (cf. 19:8). “Se manifestaram”: gr. ἐφανερώθησαν.
+[^4]: **15:4** “Quem não Te temerá”: gr. οὐ μή, negação enfática, que rege também “glorificará”; cf. Jr 10:7 (ausente da LXX). “Te” não está no SBLGNT; o texto bizantino e o Textus Receptus leem σε. “Santo”: gr. ὅσιος (cf. 16:5); o texto bizantino lê ἅγιος. “Todas as nações virão e adorarão”: cf. Sl 86:9 [LXX 85:9]; Is 2:2–3; 66:23. “Atos de justiça”: gr. δικαιώματα (cf. 19:8). “Se manifestaram”: gr. ἐφανερώθησαν.
 
-[^5]: **15:5** “O santuário do tabernáculo do testemunho”: gr. ὁ ναὸς τῆς σκηνῆς τοῦ μαρτυρίου (cf. 11:19; Êx 38:21; Nm 1:50; At 7:44). Variante: o Textus Receptus acrescenta “e eis”.
+[^5]: **15:5** “O santuário do tabernáculo do testemunho”: gr. ὁ ναὸς τῆς σκηνῆς τοῦ μαρτυρίου (cf. 11:19; Êx 38:21 [LXX 37:19]; Nm 1:50; At 7:44). Variante: o Textus Receptus acrescenta “e eis”.
 
 [^6]: **15:6** “Linho puro e resplandecente”: gr. λίνον καθαρὸν λαμπρόν (cf. 19:8, 14); o Códice Alexandrino e o de Efrém leem λίθον, “pedra” (cf. Ez 28:13). “Cingidos à altura do peito com cintos de ouro”: cf. 1:13; Dn 10:5.
 
-[^7]: **15:7** “Taças”: gr. φιάλη (cf. 5:8; 16:1). “Que vive pelos séculos dos séculos”: cf. 4:9–10; 10:6.
+[^7]: **15:7** “Taças”: gr. φιάλας (cf. 5:8; 16:1). “Que vive pelos séculos dos séculos”: cf. 4:9–10; 10:6.
 
-[^8]: **15:8** “Vinda da glória”: gr. ἐκ τῆς δόξης, lit. “da glória”. “O santuário se encheu de fumaça”: cf. Êx 40:34–35; 1Rs 8:10–11; 2Cr 5:13–14; Is 6:4. “Se consumassem”: gr. τελεσθῶσιν (cf. 15:1).
+[^8]: **15:8** “Vinda da glória”: gr. ἐκ τῆς δόξης, lit. “da glória”. “O santuário se encheu de fumaça”: cf. Êx 40:34–35 [LXX 40:28–29]; 1Rs 8:10–11; 2Cr 5:13–14; Is 6:4. “Se consumassem”: gr. τελεσθῶσιν (cf. 15:1).
 
 [← Apocalipse 14](apocalipse-14.md) · [Contents](README.md) · [Apocalipse 16 →](apocalipse-16.md)
