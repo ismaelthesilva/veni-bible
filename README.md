@@ -34,11 +34,13 @@
 
 ## Why the VBT exists
 
-The VBT was born from a frustration many people know. While preparing a devotional, I quoted 404 verses from an existing translation — more than half of the permitted limit. To continue, I would have needed to pay for a license and accept restrictions that would limit how far the material could reach. In English, there are free, high-quality translations. In Portuguese, I could not find one translated from today's critical Greek and Hebrew texts that is faithful to the original, fluent to read, and truly free to use.
+Scripture should be freely available to everyone called to write a book, a devotional, a commentary, or anything that will bless others. The VBT began with a devotional on Revelation. Quoting all 404 verses of the book from an existing translation went beyond what its license allowed. Going on meant paying a fee and accepting limits on how far the material could travel. English has free, high-quality translations. Portuguese had none translated from today's critical Greek and Hebrew texts that was faithful, fluent and truly free.
 
-That obstacle became a calling. The Veni Bible Translation began with a simple desire: to read the Word as close to the original as possible — in Portuguese and English that are faithful, fluent and memorable. The name comes from the last prayer of the Bible: *Veni, Domine Iesu.* **Come, Lord Jesus.**
+That wall became a calling. The Veni Bible Translation exists so that anyone, whether a pastor preparing a study, a youth leader printing a handout, or a family reading at the table, can hold the Word in their own language, as close to the original as possible, without asking permission. The name comes from the Bible's last prayer: *Veni, Domine Iesu.* **Come, Lord Jesus.**
 
-The work begins with Revelation and will follow, book by book, through the whole of Scripture. Each book comes with notes that show the choices made. And the translation is — and always will be — free for anyone, anywhere.
+Every verse is translated from the Greek of the SBL Greek New Testament, and each decision is shown in the notes for anyone to check. Revelation is now complete in Portuguese and English, with 404 verses and 387 notes in each. The rest of Scripture will follow, book by book. And it is, and always will be, free for anyone, anywhere.
+
+<sub>*Project led by Ismael Silva, who holds degrees in theology, has studied Koine Greek and Hebrew, and has more than 20 years of pastoral ministry on two continents.*</sub>
 
 ## Translation principles
 
