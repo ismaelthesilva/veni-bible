@@ -35,7 +35,7 @@
 
 ---
 
-[^1]: **5:1** “In the right hand”: Gr. ἐπὶ τὴν δεξιάν, lit. “on the right hand”. “On the back”: Gr. ὄπισθεν, lit. “behind”; cf. Ezek 2:9–10. “Sealed with seven seals”: cf. Isa 29:11; Dan 12:4. Variant: the Byzantine text reads “outside” (ἔξωθεν).
+[^1]: **5:1** “In the right hand”: Gr. ἐπὶ τὴν δεξιάν, lit. “on the right hand”. “Book”: Gr. βιβλίον, a scroll written on both sides and sealed along its edge, so that each seal opened in turn; “book” is kept throughout for the one Greek word (cf. 1:11; 6:14; 22:7). “On the back”: Gr. ὄπισθεν, lit. “behind”; cf. Ezek 2:9–10. “Sealed with seven seals”: cf. Isa 29:11; Dan 12:4. Variant: the Byzantine text reads “outside” (ἔξωθεν).
 
 [^2]: **5:2** “Strong”: Gr. ἰσχυρός (cf. ἰσχύς, “strength”, 5:12). “Break”: Gr. λῦσαι, lit. “loose”, the same verb as in 1:5 (“freed”).
 

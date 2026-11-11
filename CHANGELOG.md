@@ -2,6 +2,9 @@
 
 All notable changes to the VBT text. Versions follow the translation's working editions; the first frozen release will be **VBT Revelation 1.0**.
 
+## v26 — Revelation, pt-BR and English
+- 5:1 note: βιβλίον explained as a scroll written on both sides and sealed along its edge, so that each seal opened in turn; "book" / "livro" is kept throughout for the one Greek word (cf. 1:11; 6:14; 22:7). Text unchanged.
+
 ## v25 — Revelation, pt-BR and English
 - **English edition complete:** all 404 verses and 387 notes, translated from the SBLGNT and following the same decisions as the pt-BR text, verse by verse.
 - **pt-BR text:**

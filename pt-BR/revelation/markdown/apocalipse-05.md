@@ -35,7 +35,7 @@
 
 ---
 
-[^1]: **5:1** “Na destra”: gr. ἐπὶ τὴν δεξιάν, lit. “sobre a destra”. “No verso”: gr. ὄπισθεν, lit. “por trás”; cf. Ez 2:9–10. “Selado com sete selos”: cf. Is 29:11; Dn 12:4. Variante: o texto bizantino lê “por fora” (ἔξωθεν).
+[^1]: **5:1** “Na destra”: gr. ἐπὶ τὴν δεξιάν, lit. “sobre a destra”. “Livro”: gr. βιβλίον, um rolo escrito dos dois lados e selado na borda, de modo que cada selo se abria por vez; “livro” é mantido em todo o livro para a mesma palavra grega (cf. 1:11; 6:14; 22:7). “No verso”: gr. ὄπισθεν, lit. “por trás”; cf. Ez 2:9–10. “Selado com sete selos”: cf. Is 29:11; Dn 12:4. Variante: o texto bizantino lê “por fora” (ἔξωθεν).
 
 [^2]: **5:2** “Forte”: gr. ἰσχυρός (cf. ἰσχύς, “força”, 5:12). “Romper”: gr. λῦσαι, lit. “soltar”, o mesmo verbo de 1:5 (“libertou”).
 

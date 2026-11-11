@@ -13,7 +13,7 @@
 <p align="center">
   <a href="pt-BR/revelation/markdown/README.md"><img alt="Read Apocalipse (pt-BR)" src="https://img.shields.io/badge/read-Apocalipse%20(pt--BR)-0F2747?style=flat-square"></a>
   <a href="en/revelation/markdown/README.md"><img alt="Read Revelation (English)" src="https://img.shields.io/badge/read-Revelation%20(English)-0F2747?style=flat-square"></a>
-  <img alt="Version" src="https://img.shields.io/badge/version-25-B8973A?style=flat-square">
+  <img alt="Version" src="https://img.shields.io/badge/version-26-B8973A?style=flat-square">
   <img alt="Verses" src="https://img.shields.io/badge/Revelation-404%20verses%20·%20387%20notes-0F2747?style=flat-square">
   <a href="LICENSE.md"><img alt="License: CC BY-ND 4.0" src="https://img.shields.io/badge/license-CC%20BY--ND%204.0-lightgrey?style=flat-square"></a>
   <img alt="Source: SBLGNT" src="https://img.shields.io/badge/Greek%20text-SBLGNT-555?style=flat-square">
@@ -28,8 +28,8 @@
 
 | Book | Language | Status | Read online | Download |
 | --- | --- | --- | --- | --- |
-| **Revelation** (Apocalipse) | Portuguese (pt-BR) | ✅ Translated · v25 | [Chapters 1–22](pt-BR/revelation/markdown/README.md) | [USFM](pt-BR/revelation/usfm/67-REV.usfm) · [JSON](pt-BR/revelation/json/revelation.json) · [TXT](pt-BR/revelation/txt/revelation.txt) |
-| **Revelation** | English | ✅ Translated · v25 | [Chapters 1–22](en/revelation/markdown/README.md) | [USFM](en/revelation/usfm/67-REV.usfm) · [JSON](en/revelation/json/revelation.json) · [TXT](en/revelation/txt/revelation.txt) |
+| **Revelation** (Apocalipse) | Portuguese (pt-BR) | ✅ Translated · v26 | [Chapters 1–22](pt-BR/revelation/markdown/README.md) | [USFM](pt-BR/revelation/usfm/67-REV.usfm) · [JSON](pt-BR/revelation/json/revelation.json) · [TXT](pt-BR/revelation/txt/revelation.txt) |
+| **Revelation** | English | ✅ Translated · v26 | [Chapters 1–22](en/revelation/markdown/README.md) | [USFM](en/revelation/usfm/67-REV.usfm) · [JSON](en/revelation/json/revelation.json) · [TXT](en/revelation/txt/revelation.txt) |
 | Other books | pt-BR · English | 📖 Book by book, through the whole of Scripture | — | — |
 
 ## Why the VBT exists
