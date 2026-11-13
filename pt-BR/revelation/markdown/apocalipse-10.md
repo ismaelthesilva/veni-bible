@@ -10,7 +10,7 @@
 
 ---
 
-[^1]: **10:1** “Anjo”: a maiúscula identifica este Anjo com Cristo; o arco-íris, o rosto como o sol e os pés como colunas de fogo lembram as figuras divinas de 1:15–16 e 4:3 e o homem vestido de linho de Dn 10:5–6; 12:7. Outra leitura vê aqui um anjo poderoso (cf. 5:2; 18:21). “Envolto numa nuvem”: gr. περιβάλλω (cf. 3:5). “O arco-íris”: gr. ἡ ἶρις (cf. 4:3). “O Seu rosto… como o sol”: cf. 1:16. “Colunas de fogo”: cf. Êx 13:21. Variante: o texto bizantino omite “outro”.
+[^1]: **10:1** “Anjo”: a maiúscula identifica este Anjo com Cristo; o arco-íris, o rosto como o sol e os pés como colunas de fogo lembram as figuras divinas de 1:15–16 e 4:3 e o homem vestido de linho de Dn 10:5–6; 12:7. Outra leitura vê aqui um anjo forte (cf. 5:2; 18:21). “Envolto numa nuvem”: gr. περιβάλλω (cf. 3:5). “O arco-íris”: gr. ἡ ἶρις (cf. 4:3). “O Seu rosto… como o sol”: cf. 1:16. “Colunas de fogo”: cf. Êx 13:21. Variante: o texto bizantino omite “outro”.
 
 [^2]: **10:2** “Livrinho”: gr. βιβλαρίδιον, diminutivo de βιβλίον, “livro” (cf. 5:1; 10:8); o texto bizantino lê βιβλίον. “Aberto”: gr. ἠνεῳγμένον, particípio perfeito.
 

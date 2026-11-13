@@ -15,11 +15,11 @@
 
 ### Come out of her, My people
 
-<sup>4</sup>And I heard another voice from heaven, saying: Come out of her, My people, so that you do not share in her sins and so that you do not receive any of her plagues;[^4] <sup>5</sup>for her sins have piled up to heaven, and God has remembered her iniquities.[^5] <sup>6</sup>Repay her as she herself repaid, and give her double according to her works; in the cup in which she mixed, mix her double.[^6] <sup>7</sup>As much as she glorified herself and lived in luxury, so much torment and mourning give her; for she says in her heart: I sit as a queen, and I am not a widow, and I will never see mourning.[^7] <sup>8</sup>Therefore in one day her plagues will come: pestilence, and mourning, and famine; and she will be burned with fire, for strong is the Lord God who judged her.[^8]
+<sup>4</sup>And I heard another voice from heaven, saying: Come out of her, My people, so that you do not share in her sins and so that you do not receive any of her plagues;[^4] <sup>5</sup>for her sins have piled up to heaven, and God has remembered her iniquities.[^5] <sup>6</sup>Repay her as she herself repaid, and give her double according to her works; in the cup in which she mixed, mix her double.[^6] <sup>7</sup>As much as she glorified herself and lived in luxury, so much torment and mourning give her; for she says in her heart: I sit as a queen, and I am not a widow, and I will never see mourning.[^7] <sup>8</sup>Therefore in one day her plagues will come: pestilence, and mourning, and famine; and she will be burned with fire, for mighty is the Lord God who judged her.[^8]
 
 ### The lament over Babylon
 
-<sup>9</sup>The kings of the earth, who prostituted themselves and lived in luxury with her, will weep and wail over her when they see the smoke of her burning,[^9] <sup>10</sup>standing far off because of the fear of her torment, saying: Woe, woe, the great city, Babylon, the strong city, because in one hour your judgment has come![^10]
+<sup>9</sup>The kings of the earth, who prostituted themselves and lived in luxury with her, will weep and wail over her when they see the smoke of her burning,[^9] <sup>10</sup>standing far off because of the fear of her torment, saying: Woe, woe, the great city, Babylon, the mighty city, because in one hour your judgment has come![^10]
 
 <sup>11</sup>The merchants of the earth weep and mourn over her, because no one buys their cargo anymore:[^11] <sup>12</sup>cargo of gold, and of silver, and of precious stones, and of pearls, and of fine linen, and of purple, and of silk, and of scarlet; and all citron wood, and every article of ivory, and every article of most precious wood, and of bronze, and of iron, and of marble;[^12] <sup>13</sup>and cinnamon, and spice, and incense, and ointment, and frankincense, and wine, and oil, and fine flour, and wheat, and cattle, and sheep; and horses, and carriages, and slaves, and souls of men.[^13] <sup>14</sup>And the fruit that your soul longed for has departed from you, and all things fine and splendid are lost to you, and they will never find them again.[^14]
 
@@ -29,7 +29,7 @@
 
 ### The millstone
 
-<sup>21</sup>Then a strong angel took up a stone like a great millstone and cast it into the sea, saying: Thus with force Babylon, the great city, will be cast down, and will never be found again.[^21] <sup>22</sup>And the voice of harpists, and of musicians, and of flute players, and of trumpeters will never be heard in you again; and no craftsman of any craft will be found in you again; and the sound of the millstone will never be heard in you again;[^22] <sup>23</sup>and the light of a lamp will never shine in you again; and the voice of the bridegroom and of the bride will never be heard in you again; because your merchants were the great ones of the earth, because by your sorcery all the nations were deceived.[^23] <sup>24</sup>And in her was found the blood of prophets, and of saints, and of all who have been slain on the earth.[^24]
+<sup>21</sup>Then a mighty angel took up a stone like a great millstone and cast it into the sea, saying: Thus with force Babylon, the great city, will be cast down, and will never be found again.[^21] <sup>22</sup>And the voice of harpists, and of musicians, and of flute players, and of trumpeters will never be heard in you again; and no craftsman of any craft will be found in you again; and the sound of the millstone will never be heard in you again;[^22] <sup>23</sup>and the light of a lamp will never shine in you again; and the voice of the bridegroom and of the bride will never be heard in you again; because your merchants were the great ones of the earth, because by your sorcery all the nations were deceived.[^23] <sup>24</sup>And in her was found the blood of prophets, and of saints, and of all who have been slain on the earth.[^24]
 
 ---
 
@@ -47,7 +47,7 @@
 
 [^7]: **18:7** “Lived in luxury”: Gr. στρηνιάω (cf. 18:3, 9). “Mourning”: Gr. πένθος. “I sit as a queen, and I am not a widow”: cf. Isa 47:7–9; Zeph 2:15 [LXX 3:1].
 
-[^8]: **18:8** “Pestilence”: Gr. θάνατος, lit. “death” (cf. 6:8). “In one day”: cf. Isa 47:9. “She will be burned with fire”: cf. 17:16. “Strong is the Lord God”: cf. Jer 50:34 [LXX 27:34].
+[^8]: **18:8** “Pestilence”: Gr. θάνατος, lit. “death” (cf. 6:8). “In one day”: cf. Isa 47:9. “She will be burned with fire”: cf. 17:16. “Mighty is the Lord God”: cf. Jer 50:34 [LXX 27:34].
 
 [^9]: **18:9** “Wail”: Gr. κόπτομαι, lit. “beat the breast” (cf. 1:7, “mourn”; Ezek 26:16–17; 27:30–35). “Burning”: Gr. πύρωσις (cf. 18:18).
 
@@ -73,7 +73,7 @@
 
 [^20]: **18:20** “Rejoice”: Gr. εὐφραίνου (cf. 12:12). “Saints, and apostles, and prophets”: the Textus Receptus reads “holy apostles”. “God has judged your cause against her”: Gr. ἔκρινεν… τὸ κρίμα ὑμῶν ἐξ αὐτῆς, lit. “has judged your judgment from her” (cf. 6:10; 19:2; Deut 32:43).
 
-[^21]: **18:21** “Strong angel”: cf. 5:2; 10:1. “Like a great millstone”: Gr. ὡς μύλινον μέγαν. “With force”: Gr. ὁρμήματι. Cf. Jer 51:63–64 [LXX 28:63–64].
+[^21]: **18:21** “Mighty angel”: cf. 5:2; 10:1. “Like a great millstone”: Gr. ὡς μύλινον μέγαν. “With force”: Gr. ὁρμήματι. Cf. Jer 51:63–64 [LXX 28:63–64].
 
 [^22]: **18:22** “Harpists”: Gr. κιθαρῳδοί (cf. 14:2). “No craftsman of any craft”: Gr. πᾶς τεχνίτης πάσης τέχνης οὐ μή, lit. “every craftsman of every craft… not”. Cf. Isa 24:8; Jer 25:10; Ezek 26:13.
 

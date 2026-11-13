@@ -72,7 +72,7 @@ Revelation 4:9	“Whenever… give”: Gr. ὅταν with the future, a repeated
 Revelation 4:10	“Will fall down”: Gr. πίπτω, lit. “fall”; before God, prostration in worship (cf. 1:17). “Will worship”: Gr. προσκυνέω, “worship” because the object is God (contrast 3:9, “bow down”). “Will cast”: Gr. βάλλω.
 Revelation 4:11	“Created”: Gr. κτίζω (cf. “creation”, 3:14). “Because of Your will”: Gr. διὰ τὸ θέλημά σου. Variant: the Textus Receptus reads “Worthy are You, O Lord” (without “and our God”) and “they are and were created”; the Byzantine text adds “the Holy One” after “our Lord and God”.
 Revelation 5:1	“In the right hand”: Gr. ἐπὶ τὴν δεξιάν, lit. “on the right hand”. “Book”: Gr. βιβλίον, a scroll written on both sides and sealed along its edge, so that each seal opened in turn; “book” is kept throughout for the one Greek word (cf. 1:11; 6:14; 22:7). “On the back”: Gr. ὄπισθεν, lit. “behind”; cf. Ezek 2:9–10. “Sealed with seven seals”: cf. Isa 29:11; Dan 12:4. Variant: the Byzantine text reads “outside” (ἔξωθεν).
-Revelation 5:2	“Strong”: Gr. ἰσχυρός (cf. ἰσχύς, “strength”, 5:12). “Break”: Gr. λῦσαι, lit. “loose”, the same verb as in 1:5 (“freed”).
+Revelation 5:2	“Mighty”: Gr. ἰσχυρός (cf. ἰσχύς, “strength”, 5:12). “Break”: Gr. λῦσαι, lit. “loose”, the same verb as in 1:5 (“freed”).
 Revelation 5:4	Variant: the Textus Receptus reads “to open and to read the book”.
 Revelation 5:5	“The Lion of the tribe of Judah”: cf. Gen 49:9–10. “The Root of David”: cf. Isa 11:1, 10; Rev 22:16. “Has conquered”: Gr. νικάω (cf. 3:21). Variant: the Byzantine text reads “who opens the book”; the Textus Receptus, “to open the book and to loose its seven seals”.
 Revelation 5:6	“Lamb”: Gr. ἀρνίον, a title of Christ in the book (except 13:11). “Slain”: Gr. σφάζω, to slaughter in sacrifice (cf. Isa 53:7, Septuagint σφαγή; Jer 11:19). “Horns”: a symbol of power (cf. Deut 33:17; Ps 89:17). “Seven eyes… sent out into all the earth”: cf. Zech 4:10.
@@ -284,7 +284,7 @@ Revelation 18:4	“Come out of her, My people… share… receive”: in the Gre
 Revelation 18:5	“Have piled up”: Gr. ἐκολλήθησαν, lit. “have stuck together, have been joined” (cf. Gen 18:20; Jer 51:9 [LXX 28:9]). “Has remembered”: cf. 16:19.
 Revelation 18:6	“Repay her as she herself repaid”: cf. Ps 137:8 [LXX 136:8]; Jer 50:15, 29 [LXX 27:15, 29]. “Give her double”: Gr. διπλώσατε τὰ διπλᾶ, lit. “double the double” (cf. Isa 40:2; Jer 16:18); the Byzantine text and the Textus Receptus read “double to her”. “Mixed… mix”: Gr. κεράννυμι (cf. 14:10, “prepared”). Variant: the Textus Receptus reads “as she repaid you”.
 Revelation 18:7	“Lived in luxury”: Gr. στρηνιάω (cf. 18:3, 9). “Mourning”: Gr. πένθος. “I sit as a queen, and I am not a widow”: cf. Isa 47:7–9; Zeph 2:15 [LXX 3:1].
-Revelation 18:8	“Pestilence”: Gr. θάνατος, lit. “death” (cf. 6:8). “In one day”: cf. Isa 47:9. “She will be burned with fire”: cf. 17:16. “Strong is the Lord God”: cf. Jer 50:34 [LXX 27:34].
+Revelation 18:8	“Pestilence”: Gr. θάνατος, lit. “death” (cf. 6:8). “In one day”: cf. Isa 47:9. “She will be burned with fire”: cf. 17:16. “Mighty is the Lord God”: cf. Jer 50:34 [LXX 27:34].
 Revelation 18:9	“Wail”: Gr. κόπτομαι, lit. “beat the breast” (cf. 1:7, “mourn”; Ezek 26:16–17; 27:30–35). “Burning”: Gr. πύρωσις (cf. 18:18).
 Revelation 18:10	“Woe, woe”: Gr. οὐαὶ οὐαί (cf. 18:16, 19). “In one hour”: cf. 17:12; 18:17, 19. “Judgment”: Gr. κρίσις (cf. 14:7).
 Revelation 18:11	“Cargo”: Gr. γόμος (cf. Ezek 27:27). “Weep and mourn”: presents; the Byzantine text reads “will weep and will mourn”.
@@ -297,7 +297,7 @@ Revelation 18:17	“Have been made desolate”: Gr. ἠρημώθη (cf. 17:16; 
 Revelation 18:18	“Cried out”: Gr. ἔκραξαν, aorist; the Byzantine text and the Textus Receptus read ἔκραζον, “were crying out”, also in 18:19. “Who is like”: cf. 13:4; Ezek 27:32.
 Revelation 18:19	“They threw dust on their heads”: cf. Josh 7:6; Ezek 27:30; Lam 2:10. “Opulence”: Gr. τιμιότης.
 Revelation 18:20	“Rejoice”: Gr. εὐφραίνου (cf. 12:12). “Saints, and apostles, and prophets”: the Textus Receptus reads “holy apostles”. “God has judged your cause against her”: Gr. ἔκρινεν… τὸ κρίμα ὑμῶν ἐξ αὐτῆς, lit. “has judged your judgment from her” (cf. 6:10; 19:2; Deut 32:43).
-Revelation 18:21	“Strong angel”: cf. 5:2; 10:1. “Like a great millstone”: Gr. ὡς μύλινον μέγαν. “With force”: Gr. ὁρμήματι. Cf. Jer 51:63–64 [LXX 28:63–64].
+Revelation 18:21	“Mighty angel”: cf. 5:2; 10:1. “Like a great millstone”: Gr. ὡς μύλινον μέγαν. “With force”: Gr. ὁρμήματι. Cf. Jer 51:63–64 [LXX 28:63–64].
 Revelation 18:22	“Harpists”: Gr. κιθαρῳδοί (cf. 14:2). “No craftsman of any craft”: Gr. πᾶς τεχνίτης πάσης τέχνης οὐ μή, lit. “every craftsman of every craft… not”. Cf. Isa 24:8; Jer 25:10; Ezek 26:13.
 Revelation 18:23	“The voice of the bridegroom and of the bride”: cf. Jer 7:34; 16:9; 25:10. “The great ones of the earth”: Gr. μεγιστᾶνες (cf. 6:15). “Sorcery”: Gr. φαρμακεία (cf. 9:21; Isa 47:9, 12). “Deceived”: Gr. πλανάω (cf. 12:9; 13:14).
 Revelation 18:24	“Blood of prophets, and of saints”: cf. 16:6; 17:6; 19:2; Matt 23:35. “Slain”: Gr. σφάζω (cf. 6:9).

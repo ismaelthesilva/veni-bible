@@ -2,6 +2,10 @@
 
 All notable changes to the VBT text. Versions follow the translation's working editions; the first frozen release will be **VBT Revelation 1.0**.
 
+## v27 — Revelation, pt-BR and English
+- English: "mighty" for ἰσχυρός throughout — 5:2, 10:1 and 18:21 "mighty angel", 18:8 "mighty is the Lord God", 18:10 "the mighty city" (already in 18:2; 19:6; 6:15; 19:18). Notes on 5:2, 18:8 and 18:21 aligned.
+- pt-BR: "forte" kept in the text; 10:1 note aligned ("um anjo forte").
+
 ## v26 — Revelation, pt-BR and English
 - 5:1 note: βιβλίον explained as a scroll written on both sides and sealed along its edge, so that each seal opened in turn; "book" / "livro" is kept throughout for the one Greek word (cf. 1:11; 6:14; 22:7). Text unchanged.
 

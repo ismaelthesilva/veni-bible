@@ -4,7 +4,7 @@
 
 <sup>1</sup>And I saw in the right hand of Him who is seated on the throne a book written inside and on the back, sealed with seven seals.[^1]
 
-<sup>2</sup>And I saw a strong angel proclaiming with a loud voice: Who is worthy to open the book and to break its seals?[^2] <sup>3</sup>But no one in heaven, or on the earth, or under the earth was able to open the book or to look at it. <sup>4</sup>I was weeping greatly, because no one was found worthy to open the book or to look at it.[^4] <sup>5</sup>Then one of the elders says to me: Do not weep; behold, the Lion of the tribe of Judah, the Root of David, has conquered, to open the book and its seven seals.[^5]
+<sup>2</sup>And I saw a mighty angel proclaiming with a loud voice: Who is worthy to open the book and to break its seals?[^2] <sup>3</sup>But no one in heaven, or on the earth, or under the earth was able to open the book or to look at it. <sup>4</sup>I was weeping greatly, because no one was found worthy to open the book or to look at it.[^4] <sup>5</sup>Then one of the elders says to me: Do not weep; behold, the Lion of the tribe of Judah, the Root of David, has conquered, to open the book and its seven seals.[^5]
 
 ### Worthy is the Lamb
 
@@ -37,7 +37,7 @@
 
 [^1]: **5:1** “In the right hand”: Gr. ἐπὶ τὴν δεξιάν, lit. “on the right hand”. “Book”: Gr. βιβλίον, a scroll written on both sides and sealed along its edge, so that each seal opened in turn; “book” is kept throughout for the one Greek word (cf. 1:11; 6:14; 22:7). “On the back”: Gr. ὄπισθεν, lit. “behind”; cf. Ezek 2:9–10. “Sealed with seven seals”: cf. Isa 29:11; Dan 12:4. Variant: the Byzantine text reads “outside” (ἔξωθεν).
 
-[^2]: **5:2** “Strong”: Gr. ἰσχυρός (cf. ἰσχύς, “strength”, 5:12). “Break”: Gr. λῦσαι, lit. “loose”, the same verb as in 1:5 (“freed”).
+[^2]: **5:2** “Mighty”: Gr. ἰσχυρός (cf. ἰσχύς, “strength”, 5:12). “Break”: Gr. λῦσαι, lit. “loose”, the same verb as in 1:5 (“freed”).
 
 [^4]: **5:4** Variant: the Textus Receptus reads “to open and to read the book”.
 
